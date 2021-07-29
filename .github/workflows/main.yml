@@ -28,3 +28,4 @@ jobs:
       with:
         personal_token: ${{ secrets.TOKEN }}
         external_repository: QuantumPL/bib
+        publish_dir: ./public
