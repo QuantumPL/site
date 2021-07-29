@@ -12,15 +12,16 @@ jobs:
 
     steps:
     - name: Checkout main
-      uses: actions/checkout@v1
+      uses: actions/checkout@v2
+        
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
       with:
-        submodules: true
+        hugo-version: '0.86.0'
+        extended: true
 
     - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@v1.10.0
-      env:
-        HUGO_VERSION: 0.80.0
-        TARGET_REPO: QuantumPL/bib
-        TARGET_BRANCH: gh-pages
-        TOKEN: ${{ secrets.TOKEN }}
-        HUGO_EXTENDED: true
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.TOKEN }}
+        external_repository: QuantumPL/bib
