@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Quantum PL & Verification Bibliography # Website name
-baseurl: '' # Website URL
+baseurl: 'https://quantumpl.github.io/bib/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
