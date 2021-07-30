@@ -30,6 +30,6 @@ projects: []
 
 During our last weekly meeting, Robert and I came up with the idea of presenting the QPL bibliography that I have been maintaining at http://ks.cs.uchicago.edu/qpl-bib/ in a better way.
 
-So I decided to move the GitHub repo to its own organization and set up this Hugo-based website to present publications with many filtering options. One can also click on an author's name to see just their publications.
+So I decided to move the GitHub repo to its [own organization](https://github.com/QuantumPL) and set up this Hugo-based website to present publications with many filtering options. One can also click on an author's name to see just their publications.
 
 I will consider move the older bibtex2html based bibliography somewhere here as well.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'LIQ$Ui|>$: A Software Design Architecture and Domain-Specific Language for
+title: 'LIQ𝑈𝑖|〉: A Software Design Architecture and Domain-Specific Language for
   Quantum Computing'
 subtitle: ''
 summary: ''
