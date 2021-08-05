@@ -10,8 +10,8 @@
   {{ end }}
   
   <ul>
-    {{range sort .Site.Taxonomies.authors.Alphabetical }}
-      <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+    {{range $k, $v := sort .Data.Pages "Title" }}
+      <li><a href="{{$v.Permalink}}">{{$v.Title}}</a></li>
     {{end}}
   </ul>
 
