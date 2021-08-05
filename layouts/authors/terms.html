@@ -9,24 +9,14 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
   
+  Sorted alphabetically:
+  
   <ul>
     {{range $k, $v := sort .Data.Pages "Title" }}
       <li><a href="{{$v.Permalink}}">{{$v.Title}}</a></li>
     {{end}}
   </ul>
 
-<!--
-  Paginated list of authors
-  <ul>
-    {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $k, $v := $paginator.Pages }}
-      {{ $name := $v.Title }}
-      <li><a href="{{$v.Permalink}}">{{$name}}</a></li>
-    {{ end }}
-  </ul>
-
-  {{ partial "pagination" . }}
--->
 </div>
 
 {{- end -}}
