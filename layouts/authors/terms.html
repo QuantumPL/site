@@ -9,8 +9,14 @@
   <div class="article-style">{{ . }}</div>
   {{ end }}
   
-  Paginated list of authors
+  <ul>
+    {{range sort .Site.Taxonomics.authors.Alphabetical }}
+      <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+    {{end}}
+  </ul>
 
+<!--
+  Paginated list of authors
   <ul>
     {{ $paginator := .Paginate .Data.Pages }}
     {{ range $k, $v := $paginator.Pages }}
@@ -20,6 +26,7 @@
   </ul>
 
   {{ partial "pagination" . }}
+-->
 </div>
 
 {{- end -}}
