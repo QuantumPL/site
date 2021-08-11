@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.444162Z'
+publishDate: '2021-08-11T17:42:37.501279Z'
 publication_types:
 - '6'
 abstract: "This chapter presents a systematic exposition of predicate transformer\
@@ -45,4 +45,7 @@ abstract: "This chapter presents a systematic exposition of predicate transforme
   \ in the quantum setting."
 publication: '*Semantic Techniques in Quantum Computation*'
 doi: 10.1017/CBO9781139193313.009
+links:
+- name: URL
+  url: https://opus.lib.uts.edu.au/bitstream/10453/12965/1/2008004719.pdf
 ---
