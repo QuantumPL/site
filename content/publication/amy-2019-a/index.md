@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2019-05-01'
-lastmod: 2021-07-29T17:59:12-05:00
+lastmod: 2021-08-11T12:17:57-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:12.494067Z'
+publishDate: '2021-08-11T17:17:57.633892Z'
 publication_types:
 - '1'
 abstract: One of the most fundamental aspects of quantum circuit design is the concept
@@ -43,4 +43,7 @@ abstract: One of the most fundamental aspects of quantum circuit design is the c
   circuit.
 publication: "*Reversible Computation (RC '19)*"
 doi: 10.1007/978-3-030-21500-2_6
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1908.02644
 ---

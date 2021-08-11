@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-07-01'
-lastmod: 2021-07-29T17:59:14-05:00
+lastmod: 2021-08-11T12:17:59-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:14.738468Z'
+publishDate: '2021-08-11T17:17:59.375760Z'
 publication_types:
 - '1'
 abstract: We introduce dependently typed Proto-Quipper, or Proto-Quipper-D for short,
@@ -43,4 +43,7 @@ abstract: We introduce dependently typed Proto-Quipper, or Proto-Quipper-D for s
   along the way.
 publication: "*Reversible Computation (RC '20)*"
 doi: 10.1007/978-3-030-52482-1_9
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2005.08396
 ---

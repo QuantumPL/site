@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-07-29T17:59:16-05:00
+lastmod: 2021-08-11T12:18:00-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:16.273847Z'
+publishDate: '2021-08-11T17:18:00.423352Z'
 publication_types:
 - '2'
 abstract: We present VOQC, the first fully verified optimizer for quantum circuits,

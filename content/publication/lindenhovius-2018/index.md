@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-07-01'
-lastmod: 2021-07-29T17:59:17-05:00
+lastmod: 2021-08-11T12:18:01-05:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:17.241614Z'
+publishDate: '2021-08-11T17:18:01.269730Z'
 publication_types:
 - '1'
 abstract: Linear/non-linear (LNL) models, as described by Benton, soundly model a
@@ -45,4 +45,7 @@ abstract: Linear/non-linear (LNL) models, as described by Benton, soundly model 
 publication: '*Proceedings of the 33rd Annual ACM/IEEE Symposium on Logic in Computer
   Science*'
 doi: 10.1145/3209108.3209196
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1804.09822
 ---

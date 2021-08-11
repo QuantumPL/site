@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2021-07-29T17:59:22-05:00
+lastmod: 2021-08-11T12:18:04-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:22.360746Z'
+publishDate: '2021-08-11T17:18:04.534005Z'
 publication_types:
 - '2'
 abstract: Floyd--Hoare logic is a foundation of axiomatic semantics of classical programs,

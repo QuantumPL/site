@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2021-07-29T17:59:19-05:00
+lastmod: 2021-08-11T12:18:02-05:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:19.703448Z'
+publishDate: '2021-08-11T17:18:02.812974Z'
 publication_types:
 - '1'
 abstract: The Heisenberg representation of quantum operators provides a powerful technique
@@ -43,5 +43,7 @@ abstract: The Heisenberg representation of quantum operators provides a powerful
   apply these types to reason about separable states and the superdense coding algorithm.
 publication: '*Proceedings of the 17th International Conference on Quantum Physics
   and Logic (QPL), Paris, France, June 2--6, 2020*'
-url_pdf: https://people.cs.uchicago.edu/~rand/qpl_2020.pdf
+links:
+- name: URL
+  url: https://people.cs.uchicago.edu/~rand/qpl_2020.pdf
 ---

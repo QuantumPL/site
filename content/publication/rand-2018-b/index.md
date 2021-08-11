@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2021-07-29T17:59:19-05:00
+lastmod: 2021-08-11T12:18:02-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:19.428488Z'
+publishDate: '2021-08-11T17:18:02.663159Z'
 publication_types:
 - '0'
 abstract: We explore the design space of using dependent types to type check and verify
@@ -38,5 +38,7 @@ abstract: We explore the design space of using dependent types to type check and
   types, or phantom types, as a middle ground, which provide useful type information
   for programming while specifying the properties to be externally verified.
 publication: ''
-url_pdf: https://popl18.sigplan.org/event/coqpl-2018-phantom-types-for-quantum-programs
+links:
+- name: URL
+  url: https://popl18.sigplan.org/event/coqpl-2018-phantom-types-for-quantum-programs
 ---

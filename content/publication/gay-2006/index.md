@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2006-08-01'
-lastmod: 2021-07-29T17:59:15-05:00
+lastmod: 2021-08-11T12:17:59-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:15.009572Z'
+publishDate: '2021-08-11T17:17:59.586049Z'
 publication_types:
 - '2'
 abstract: The field of quantum programming languages is developing rapidly and there
@@ -39,6 +39,8 @@ abstract: The field of quantum programming languages is developing rapidly and t
   the literature in quantum programming languages, and indicates directions for future
   research.
 publication: '*Mathematical Structures in Computer Science*'
-url_pdf: http://www.dcs.gla.ac.uk/~simon/quantum/
 doi: 10.1017/S0960129506005378
+links:
+- name: URL
+  url: http://www.dcs.gla.ac.uk/~simon/quantum/
 ---

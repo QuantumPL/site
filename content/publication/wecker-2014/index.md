@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2014-02-01'
-lastmod: 2021-07-29T17:59:22-05:00
+lastmod: 2021-08-11T12:18:04-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:22.071734Z'
+publishDate: '2021-08-11T17:18:04.356635Z'
 publication_types:
 - '0'
 abstract: Languages, compilers, and computer-aided design tools will be essential
@@ -47,4 +47,7 @@ abstract: Languages, compilers, and computer-aided design tools will be essentia
   the significant components of the design architecture and how to express any given
   quantum algorithm.
 publication: ''
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1402.4467
 ---

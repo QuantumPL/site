@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-07-01'
-lastmod: 2021-07-29T17:59:23-05:00
+lastmod: 2021-08-11T12:18:05-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:23.227495Z'
+publishDate: '2021-08-11T17:18:05.234278Z'
 publication_types:
 - '1'
 abstract: We propose a model of the substructural logic of Bunched Implications (BI)
@@ -45,4 +45,7 @@ abstract: We propose a model of the substructural logic of Bunched Implications 
 publication: '*Proceedings of the 36th Annual ACM/IEEE Symposium on Logic in Computer
   Science*'
 doi: 10.1109/LICS52264.2021.9470673
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2102.00329
 ---

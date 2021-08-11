@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2018-02-01'
-lastmod: 2021-07-29T17:59:21-05:00
+lastmod: 2021-08-11T12:18:04-05:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:21.516911Z'
+publishDate: '2021-08-11T17:18:04.046710Z'
 publication_types:
 - '1'
 abstract: Quantum computing exploits quantum phenomena such as superposition and entanglement
@@ -56,4 +56,7 @@ abstract: Quantum computing exploits quantum phenomena such as superposition and
   and powerful functional constructs which aid composition.
 publication: '*Proceedings of the Real World Domain Specific Languages Workshop 2018*'
 doi: 10.1145/3183895.3183901
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1803.00652
 ---

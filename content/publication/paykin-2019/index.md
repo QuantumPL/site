@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2019-04-01'
-lastmod: 2021-07-29T17:59:18-05:00
+lastmod: 2021-08-11T12:18:02-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:18.670943Z'
+publishDate: '2021-08-11T17:18:02.197544Z'
 publication_types:
 - '0'
 abstract: This paper presents an equational theory for the QRAM model of quantum computation,
@@ -39,4 +39,7 @@ abstract: This paper presents an equational theory for the QRAM model of quantum
   simplifying the presentation of an equational theory. We prove that this equational
   theory is sound and complete with respect to established models of quantum computation.
 publication: ''
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1904.04371
 ---

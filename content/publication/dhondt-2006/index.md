@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2006-06-01'
-lastmod: 2021-07-29T17:59:14-05:00
+lastmod: 2021-08-11T12:17:59-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:14.455222Z'
+publishDate: '2021-08-11T17:17:59.156547Z'
 publication_types:
 - '2'
 abstract: We develop a notion of predicate transformer and, in particular, the weakest
@@ -41,6 +41,8 @@ abstract: We develop a notion of predicate transformer and, in particular, the w
   of Selinger's language in terms of our weakest preconditions. We also cover some
   specific situations and exhibit an interesting link with stabilisers.
 publication: '*Mathematical Structures in Computer Science*'
-url_pdf: https://www.cs.mcgill.ca/~prakash/Pubs/weakest_mscs.pdf
 doi: 10.1017/S0960129506005251
+links:
+- name: URL
+  url: https://www.cs.mcgill.ca/~prakash/Pubs/weakest_mscs.pdf
 ---

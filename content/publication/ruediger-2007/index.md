@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2007-03-01'
-lastmod: 2021-07-29T17:59:20-05:00
+lastmod: 2021-08-11T12:18:03-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:20.255638Z'
+publishDate: '2021-08-11T17:18:03.152020Z'
 publication_types:
 - '2'
 abstract: The present article gives an introductory overview of the novel field of

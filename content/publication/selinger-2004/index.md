@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2004-04-01'
-lastmod: 2021-07-29T17:59:20-05:00
+lastmod: 2021-08-11T12:18:03-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:20.541822Z'
+publishDate: '2021-08-11T17:18:03.334539Z'
 publication_types:
 - '1'
 abstract: This article is a brief and subjective survey of quantum programming language

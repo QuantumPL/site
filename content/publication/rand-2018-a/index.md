@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2018-11-01'
-lastmod: 2021-07-29T17:59:19-05:00
+lastmod: 2021-08-11T12:18:02-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:19.245048Z'
+publishDate: '2021-08-11T17:18:02.584362Z'
 publication_types:
 - '7'
 abstract: " The field of quantum mechanics predates computer science by at least ten\
@@ -60,5 +60,7 @@ abstract: " The field of quantum mechanics predates computer science by at least
   \ quantum teleportation. We argue that this tool provides a solid foundation for\
   \ research into quantum programming languages and formal verification going forward. "
 publication: ''
-url_pdf: https://repository.upenn.edu/edissertations/3175
+links:
+- name: URL
+  url: https://repository.upenn.edu/edissertations/3175
 ---

@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2021-07-29T17:59:13-05:00
+lastmod: 2021-08-11T12:17:58-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:13.057645Z'
+publishDate: '2021-08-11T17:17:57.991664Z'
 publication_types:
 - '1'
 abstract: Existing quantum languages force the programmer to work at a low level of
@@ -47,6 +47,8 @@ abstract: Existing quantum languages force the programmer to work at a low level
   -46% for Q#, -38% for Quipper), while using only half the number of quantum primitives.
 publication: '*Proceedings of the 41st ACM SIGPLAN Conference on Programming Language
   Design and Implementation*'
-url_pdf: https://files.sri.inf.ethz.ch/website/papers/pldi20-silq.pdf
 doi: 10.1145/3385412.3386007
+links:
+- name: URL
+  url: https://files.sri.inf.ethz.ch/website/papers/pldi20-silq.pdf
 ---

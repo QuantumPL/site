@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-06-01'
-lastmod: 2021-07-29T17:59:16-05:00
+lastmod: 2021-08-11T12:18:00-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:16.412640Z'
+publishDate: '2021-08-11T17:18:00.521490Z'
 publication_types:
 - '1'
 abstract: "As quantum computing progresses steadily from theory into practice, programmers\
@@ -44,6 +44,8 @@ abstract: "As quantum computing progresses steadily from theory into practice, p
   \ verification in the quantum context and motivate the theorem proving community\
   \ to target quantum computing as an application domain."
 publication: '*12th International Conference on Interactive Theorem Proving (ITP 2021)*'
-url_pdf: https://github.com/inQWIRE/SQIR
 doi: 10.4230/LIPIcs.ITP.2021.21
+links:
+- name: URL
+  url: https://github.com/inQWIRE/SQIR
 ---

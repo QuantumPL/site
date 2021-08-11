@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2018-07-01'
-lastmod: 2021-07-29T17:59:13-05:00
+lastmod: 2021-08-11T12:17:58-05:00
 featured: false
 draft: false
 
@@ -27,12 +27,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:13.616430Z'
+publishDate: '2021-08-11T17:17:58.452860Z'
 publication_types:
 - '0'
 abstract: Cirq is a Python library for writing, manipulating, and optimizing quantum
   circuits and running them against quantum computers and simulators.
 publication: ''
-url_pdf: https://github.com/quantumlib/Cirq
 doi: 10.5281/zenodo.4062499
+links:
+- name: URL
+  url: https://github.com/quantumlib/Cirq
 ---

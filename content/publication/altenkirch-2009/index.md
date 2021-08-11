@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2009-11-01'
-lastmod: 2021-07-29T17:59:12-05:00
+lastmod: 2021-08-11T12:17:57-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:12.219774Z'
+publishDate: '2021-08-11T17:17:57.479857Z'
 publication_types:
 - '6'
 abstract: The quantum IO monad is a purely functional interface to quantum programming
@@ -40,6 +40,8 @@ abstract: The quantum IO monad is a purely functional interface to quantum progr
   it into the IO monad using the random number generator. As an example we present
   a complete implementation of Shor's algorithm.
 publication: '*Semantic Techniques in Quantum Computation*'
-url_pdf: https://www.cs.nott.ac.uk/~psztxa/g5xnsc/chapter.pdf
 doi: 10.1017/CBO9781139193313.006
+links:
+- name: URL
+  url: https://www.cs.nott.ac.uk/~psztxa/g5xnsc/chapter.pdf
 ---

@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2006-06-01'
-lastmod: 2021-07-29T17:59:20-05:00
+lastmod: 2021-08-11T12:18:03-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:20.819945Z'
+publishDate: '2021-08-11T17:18:03.525936Z'
 publication_types:
 - '2'
 abstract: In this paper we develop a functional programming language for quantum computers
@@ -39,6 +39,8 @@ abstract: In this paper we develop a functional programming language for quantum
   logic. The main results of this paper are the safety properties of the language
   and the development of a type inference algorithm.
 publication: '*Mathematical Structures in Computer Science*'
-url_pdf: https://www.mscs.dal.ca/~selinger/papers/papers/qlambda-mscs.pdf
 doi: 10.1017/S0960129506005238
+links:
+- name: URL
+  url: https://www.mscs.dal.ca/~selinger/papers/papers/qlambda-mscs.pdf
 ---

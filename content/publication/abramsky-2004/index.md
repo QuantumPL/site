@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2004-07-01'
-lastmod: 2021-07-29T17:59:11-05:00
+lastmod: 2021-08-11T12:17:57-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:11.805543Z'
+publishDate: '2021-08-11T17:17:57.244189Z'
 publication_types:
 - '1'
 abstract: "We study quantum information and computation from a novel point of view.\
@@ -50,4 +50,7 @@ abstract: "We study quantum information and computation from a novel point of vi
 publication: '*Proceedings of the 19th Annual IEEE Symposium on Logic in Computer
   Science*'
 doi: 10.1109/LICS.2004.1319636
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/quant-ph/0402130
 ---

@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2013-06-01'
-lastmod: 2021-07-29T17:59:15-05:00
+lastmod: 2021-08-11T12:18:00-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:15.568850Z'
+publishDate: '2021-08-11T17:17:59.937327Z'
 publication_types:
 - '1'
 abstract: The field of quantum algorithms is vibrant. Still, there is currently a
@@ -47,4 +47,7 @@ abstract: The field of quantum algorithms is vibrant. Still, there is currently 
 publication: '*Proceedings of the 34th ACM SIGPLAN Conference on Programming Language
   Design and Implementation*'
 doi: 10.1145/2491956.2462177
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1304.3390
 ---

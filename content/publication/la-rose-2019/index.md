@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2019-03-01'
-lastmod: 2021-07-29T17:59:17-05:00
+lastmod: 2021-08-11T12:18:01-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:16.964997Z'
+publishDate: '2021-08-11T17:18:00.964592Z'
 publication_types:
 - '2'
 abstract: Ryan LaRose, Quantum 3, 130 (2019). Quantum computers are available to use

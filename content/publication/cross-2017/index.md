@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2017-07-01'
-lastmod: 2021-07-29T17:59:14-05:00
+lastmod: 2021-08-11T12:17:58-05:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:14.036777Z'
+publishDate: '2021-08-11T17:17:58.795957Z'
 publication_types:
 - '0'
 abstract: This document describes a quantum assembly language (QASM) called OpenQASM
@@ -40,5 +40,9 @@ abstract: This document describes a quantum assembly language (QASM) called Open
   simple text language can be written by hand or by higher level tools and may be
   executed on the IBM Q Experience.
 publication: ''
-url_pdf: https://github.com/Qiskit/openqasm/tree/OpenQASM2.x
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1707.03429
+- name: URL
+  url: https://github.com/Qiskit/openqasm/tree/OpenQASM2.x
 ---

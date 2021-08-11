@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-07-01'
-lastmod: 2021-07-29T17:59:13-05:00
+lastmod: 2021-08-11T12:17:58-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:13.334250Z'
+publishDate: '2021-08-11T17:17:58.221026Z'
 publication_types:
 - '0'
 abstract: 'While recent progress in quantum hardware open the door for significant
@@ -58,4 +58,7 @@ abstract: 'While recent progress in quantum hardware open the door for significa
   quantum algorithms, and Grover search. These breakthroughs were amply facilitated
   by the specification and automated deduction principles introduced within Qbricks.'
 publication: ''
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2003.05841
 ---

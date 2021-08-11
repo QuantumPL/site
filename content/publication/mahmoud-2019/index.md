@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-12-01'
-lastmod: 2021-07-29T17:59:17-05:00
+lastmod: 2021-08-11T12:18:01-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:17.523275Z'
+publishDate: '2021-08-11T17:18:01.482903Z'
 publication_types:
 - '2'
 abstract: We develop a linear logical framework within the Hybrid system and use it
@@ -45,4 +45,7 @@ abstract: We develop a linear logical framework within the Hybrid system and use
   rules in the SL, and prove type soundness.
 publication: '*Journal of Automated Reasoning*'
 doi: 10.1007/s10817-019-09527-x
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1812.03624
 ---

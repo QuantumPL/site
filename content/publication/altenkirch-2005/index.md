@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2005-06-01'
-lastmod: 2021-07-29T17:59:12-05:00
+lastmod: 2021-08-11T12:17:57-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:12.082441Z'
+publishDate: '2021-08-11T17:17:57.403159Z'
 publication_types:
 - '1'
 abstract: 'We introduce the language QML, a functional language for quantum computations
@@ -42,4 +42,7 @@ abstract: 'We introduce the language QML, a functional language for quantum comp
 publication: '*Proceedings of the 20th Annual IEEE Symposium on Logic in Computer
   Science*'
 doi: 10.1109/LICS.2005.1
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/quant-ph/0409065
 ---

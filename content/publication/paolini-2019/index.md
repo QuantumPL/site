@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-04-01'
-lastmod: 2021-07-29T17:59:18-05:00
+lastmod: 2021-08-11T12:18:02-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:18.246468Z'
+publishDate: '2021-08-11T17:18:01.927238Z'
 publication_types:
 - '1'
 abstract: We present IQu, namely a quantum programming language that extends Reynold's

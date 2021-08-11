@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-03-01'
-lastmod: 2021-07-29T17:59:17-05:00
+lastmod: 2021-08-11T12:18:01-05:00
 featured: false
 draft: false
 
@@ -29,13 +29,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:17.659152Z'
+publishDate: '2021-08-11T17:18:01.566542Z'
 publication_types:
 - '0'
 abstract: This report documents the program and the outcomes of Dagstuhl Seminar 18381
   ``Quantum Programming Languages'', which brought together researchers from quantum
   computing and classical programming languages.
 publication: '*Dagstuhl Reports*'
-url_pdf: https://www.dagstuhl.de/18381
 doi: 10.4230/DagRep.8.9.112
+links:
+- name: URL
+  url: https://www.dagstuhl.de/18381
 ---

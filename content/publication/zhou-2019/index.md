@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-06-01'
-lastmod: 2021-07-29T17:59:23-05:00
+lastmod: 2021-08-11T12:18:05-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:23.092137Z'
+publishDate: '2021-08-11T17:18:05.113953Z'
 publication_types:
 - '1'
 abstract: 'We derive a variant of quantum Hoare logic (QHL), called applied quantum
@@ -42,6 +42,8 @@ abstract: 'We derive a variant of quantum Hoare logic (QHL), called applied quan
   solving systems of linear equations and qPCA (quantum Principal Component Analysis).'
 publication: '*Proceedings of the 40th ACM SIGPLAN Conference on Programming Language
   Design and Implementation*'
-url_pdf: https://opus.lib.uts.edu.au/bitstream/10453/140615/2/3314221.3314584.pdf
 doi: 10.1145/3314221.3314584
+links:
+- name: URL
+  url: https://opus.lib.uts.edu.au/bitstream/10453/140615/2/3314221.3314584.pdf
 ---

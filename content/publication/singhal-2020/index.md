@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-07-29T17:59:21-05:00
+lastmod: 2021-08-11T12:18:03-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:21.097446Z'
+publishDate: '2021-08-11T17:18:03.716119Z'
 publication_types:
 - '0'
 abstract: We describe the ongoing development of a verified translator between OpenQASM
@@ -39,5 +39,7 @@ abstract: We describe the ongoing development of a verified translator between O
   real quantum computers. This translator is a step toward a verified compilation
   stack for quantum computing.
 publication: ''
-url_pdf: http://ks.cs.uchicago.edu/publication/verified-translation/
+links:
+- name: URL
+  url: http://ks.cs.uchicago.edu/publication/verified-translation/
 ---

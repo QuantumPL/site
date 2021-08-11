@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2020-12-01'
-lastmod: 2021-07-29T17:59:15-05:00
+lastmod: 2021-08-11T12:18:00-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:15.854180Z'
+publishDate: '2021-08-11T17:18:00.125509Z'
 publication_types:
 - '7'
 abstract: The aim of this thesis is to identify practical applications where quantum

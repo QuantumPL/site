@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2016-08-01'
-lastmod: 2021-07-29T17:59:21-05:00
+lastmod: 2021-08-11T12:18:03-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:21.237077Z'
+publishDate: '2021-08-11T17:18:03.809500Z'
 publication_types:
 - '0'
 abstract: We introduce an abstract machine architecture for classical/quantum computations---including
@@ -39,5 +39,9 @@ abstract: We introduce an abstract machine architecture for classical/quantum co
   machine dovetails with ongoing development of quantum computing technology, and
   makes possible portable descriptions of recent classical/quantum algorithms.
 publication: ''
-url_pdf: https://github.com/rigetti/quil
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1608.03355
+- name: URL
+  url: https://github.com/rigetti/quil
 ---

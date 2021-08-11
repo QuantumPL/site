@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2019-04-01'
-lastmod: 2021-07-29T17:59:16-05:00
+lastmod: 2021-08-11T12:18:00-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:16.128628Z'
+publishDate: '2021-08-11T17:18:00.324368Z'
 publication_types:
 - '3'
 abstract: We present sqire, a low-level language for quantum computing and verification.
@@ -41,4 +41,7 @@ abstract: We present sqire, a low-level language for quantum computing and verif
   by verifying a number of useful optimizations, and we demonstrate sqire's use as
   a tool for general verification by proving several quantum programs correct.
 publication: ''
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1904.06319
 ---

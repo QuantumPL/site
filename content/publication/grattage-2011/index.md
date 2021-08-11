@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2011-02-01'
-lastmod: 2021-07-29T17:59:15-05:00
+lastmod: 2021-08-11T12:17:59-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:15.292752Z'
+publishDate: '2021-08-11T17:17:59.768776Z'
 publication_types:
 - '1'
 abstract: This paper gives an introduction to and overview of the functional quantum
@@ -44,4 +44,7 @@ abstract: This paper gives an introduction to and overview of the functional qua
 publication: '*Proceedings of the Joint 5th International Workshop on Quantum Physics
   and Logic and 4th Workshop on Developments in Computational Models (QPL/DCM 2008)*'
 doi: https://doi.org/10.1016/j.entcs.2011.01.015
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0806.2735
 ---

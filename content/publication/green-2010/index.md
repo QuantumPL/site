@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2010-07-01'
-lastmod: 2021-07-29T17:59:15-05:00
+lastmod: 2021-08-11T12:17:59-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:15.432057Z'
+publishDate: '2021-08-11T17:17:59.852752Z'
 publication_types:
 - '7'
 abstract: This thesis looks at the development of a framework for a functional quantum
@@ -42,5 +42,7 @@ abstract: This thesis looks at the development of a framework for a functional q
   designed following a structural approach as given by a categorical model of quantum
   computation.
 publication: ''
-url_pdf: http://eprints.nottingham.ac.uk/11457/
+links:
+- name: URL
+  url: http://eprints.nottingham.ac.uk/11457/
 ---

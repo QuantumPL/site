@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2021-03-01'
-lastmod: 2021-07-29T17:59:13-05:00
+lastmod: 2021-08-11T12:17:58-05:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:13.471310Z'
+publishDate: '2021-08-11T17:17:58.338021Z'
 publication_types:
 - '1'
 abstract: "While recent progress in quantum hardware open the door for significant\

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2003-08-01'
-lastmod: 2021-07-29T17:59:13-05:00
+lastmod: 2021-08-11T12:17:57-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:12.915886Z'
+publishDate: '2021-08-11T17:17:57.896686Z'
 publication_types:
 - '2'
 abstract: 'It is becoming increasingly clear that, if a useful device for quantum
@@ -48,4 +48,7 @@ abstract: 'It is becoming increasingly clear that, if a useful device for quantu
 publication: '*European Physical Journal D: Atomic, Molecular, Optical and Plasma
   Physics*'
 doi: 10.1140/epjd/e2003-00242-2
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/cs/0103009
 ---

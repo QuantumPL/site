@@ -102,7 +102,7 @@ authors:
 tags: []
 categories: []
 date: '2017-03-01'
-lastmod: 2021-07-29T17:59:12-05:00
+lastmod: 2021-08-11T12:17:57-05:00
 featured: false
 draft: false
 
@@ -120,12 +120,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:11.943210Z'
+publishDate: '2021-08-11T17:17:57.322568Z'
 publication_types:
 - '0'
 abstract: Qiskit is an open-source framework for working with noisy quantum computers
   at the level of pulses, circuits, and algorithms. https://qiskit.org
 publication: ''
-url_pdf: https://github.com/Qiskit/qiskit
 doi: 10.5281/zenodo.2562110
+links:
+- name: URL
+  url: https://github.com/Qiskit/qiskit
 ---

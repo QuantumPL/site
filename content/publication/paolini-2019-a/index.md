@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-12-01'
-lastmod: 2021-07-29T17:59:18-05:00
+lastmod: 2021-08-11T12:18:02-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-07-29T22:59:18.392443Z'
+publishDate: '2021-08-11T17:18:02.020069Z'
 publication_types:
 - '2'
 abstract: qPCF is a paradigmatic quantum programming language that extends PCF with
@@ -43,4 +43,7 @@ abstract: qPCF is a paradigmatic quantum programming language that extends PCF w
   encoding.
 publication: '*Journal of Automated Reasoning*'
 doi: 10.1007/s10817-019-09518-y
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1809.05723
 ---
