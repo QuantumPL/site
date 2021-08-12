@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:02.197544Z'
+publishDate: '2021-08-12T15:41:26.497304Z'
 publication_types:
 - '0'
 abstract: This paper presents an equational theory for the QRAM model of quantum computation,

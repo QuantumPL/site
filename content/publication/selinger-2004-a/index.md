@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:03.429049Z'
+publishDate: '2021-08-12T15:41:28.743502Z'
 publication_types:
 - '2'
 abstract: We propose the design of a programming language for quantum computing. Traditionally,

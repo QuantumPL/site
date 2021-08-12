@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:57.721313Z'
+publishDate: '2021-08-12T15:41:20.182222Z'
 publication_types:
 - '1'
 abstract: We propose a notion of quantum control in a quantum programming language

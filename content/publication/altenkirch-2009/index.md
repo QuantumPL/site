@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:57.479857Z'
+publishDate: '2021-08-12T15:41:19.773348Z'
 publication_types:
 - '6'
 abstract: The quantum IO monad is a purely functional interface to quantum programming

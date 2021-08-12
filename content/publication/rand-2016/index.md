@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:02.377144Z'
+publishDate: '2021-08-12T15:41:26.875074Z'
 publication_types:
 - '4'
 abstract: 'We survey the landscape of Hoare logics for quantum programs. We review

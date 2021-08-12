@@ -6,7 +6,7 @@ title: 'Q#: Enabling Scalable Quantum Computing and Development with a High-Leve
 subtitle: ''
 summary: ''
 authors:
-- Krysta Svore
+- Krysta M. Svore
 - Alan Geller
 - Matthias Troyer
 - John Azariah
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.046710Z'
+publishDate: '2021-08-12T15:41:29.596761Z'
 publication_types:
 - '1'
 abstract: Quantum computing exploits quantum phenomena such as superposition and entanglement

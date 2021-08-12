@@ -5,7 +5,7 @@ title: Semantic Techniques in Quantum Computation
 subtitle: ''
 summary: ''
 authors:
-- Simon Gay
+- Simon J. Gay
 - Ian Mackie
 tags: []
 categories: []
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:59.685449Z'
+publishDate: '2021-08-12T15:41:22.706036Z'
 publication_types:
 - '5'
 abstract: ''

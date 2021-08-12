@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:00.727898Z'
+publishDate: '2021-08-12T15:41:24.275182Z'
 publication_types:
 - '2'
 abstract: We present ScaffCC, a scalable compilation and analysis framework based

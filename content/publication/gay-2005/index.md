@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:59.481167Z'
+publishDate: '2021-08-12T15:41:22.424337Z'
 publication_types:
 - '1'
 abstract: We define a language CQP (Communicating Quantum Processes) for modelling

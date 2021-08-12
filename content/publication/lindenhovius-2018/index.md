@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:01.269730Z'
+publishDate: '2021-08-12T15:41:24.947282Z'
 publication_types:
 - '1'
 abstract: Linear/non-linear (LNL) models, as described by Benton, soundly model a

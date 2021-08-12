@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:59.156547Z'
+publishDate: '2021-08-12T15:41:21.990207Z'
 publication_types:
 - '2'
 abstract: We develop a notion of predicate transformer and, in particular, the weakest

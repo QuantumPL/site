@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:02.020069Z'
+publishDate: '2021-08-12T15:41:26.187679Z'
 publication_types:
 - '2'
 abstract: qPCF is a paradigmatic quantum programming language that extends PCF with

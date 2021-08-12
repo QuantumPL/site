@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:59.263843Z'
+publishDate: '2021-08-12T15:41:22.129100Z'
 publication_types:
 - '1'
 abstract: Modern quantum programming languages integrate quantum resources and classical

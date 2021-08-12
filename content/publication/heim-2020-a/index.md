@@ -12,7 +12,7 @@ authors:
 - Martin Roetteler
 - Alan Geller
 - Matthias Troyer
-- Krysta Svore
+- Krysta M. Svore
 tags: []
 categories: []
 date: '2020-12-01'
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:00.225030Z'
+publishDate: '2021-08-12T15:41:23.582950Z'
 publication_types:
 - '2'
 abstract: Quantum programming languages are essential to translate ideas into instructions

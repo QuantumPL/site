@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:59.036176Z'
+publishDate: '2021-08-12T15:41:21.838110Z'
 publication_types:
 - '6'
 abstract: "Measurement-based quantum computation (MBQC) has emerged as a new approach\

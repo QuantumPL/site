@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.274149Z'
+publishDate: '2021-08-12T15:41:30.049442Z'
 publication_types:
 - '2'
 abstract: The Quipper language offers a unified general-purpose programming framework

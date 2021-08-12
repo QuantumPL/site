@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.725962Z'
+publishDate: '2021-08-12T15:41:31.145225Z'
 publication_types:
 - '0'
 abstract: "We extract a novel quantum programming paradigm - superposition of programs\

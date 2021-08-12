@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:58.221026Z'
+publishDate: '2021-08-12T15:41:20.865425Z'
 publication_types:
 - '0'
 abstract: 'While recent progress in quantum hardware open the door for significant

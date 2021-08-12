@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:00.423352Z'
+publishDate: '2021-08-12T15:41:23.866023Z'
 publication_types:
 - '2'
 abstract: We present VOQC, the first fully verified optimizer for quantum circuits,

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:03.809500Z'
+publishDate: '2021-08-12T15:41:29.308523Z'
 publication_types:
 - '0'
 abstract: We introduce an abstract machine architecture for classical/quantum computations---including

@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:57.555799Z'
+publishDate: '2021-08-12T15:41:19.907551Z'
 publication_types:
 - '1'
 abstract: We introduce a framework for the formal specification and verification of

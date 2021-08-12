@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.198691Z'
+publishDate: '2021-08-12T15:41:29.898085Z'
 publication_types:
 - '1'
 abstract: Quantum Hoare logic allows us to reason about quantum programs. We present

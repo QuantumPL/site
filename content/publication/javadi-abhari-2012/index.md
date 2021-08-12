@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:00.619043Z'
+publishDate: '2021-08-12T15:41:24.135786Z'
 publication_types:
 - '4'
 abstract: " Quantum computing is of significant research interest because of its potential\

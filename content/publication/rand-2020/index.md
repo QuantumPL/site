@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:02.812974Z'
+publishDate: '2021-08-12T15:41:27.673705Z'
 publication_types:
 - '1'
 abstract: The Heisenberg representation of quantum operators provides a powerful technique

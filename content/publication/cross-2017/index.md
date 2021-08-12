@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:58.795957Z'
+publishDate: '2021-08-12T15:41:21.554571Z'
 publication_types:
 - '0'
 abstract: This document describes a quantum assembly language (QASM) called OpenQASM

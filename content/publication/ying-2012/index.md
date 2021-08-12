@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.534005Z'
+publishDate: '2021-08-12T15:41:30.719224Z'
 publication_types:
 - '2'
 abstract: Floyd--Hoare logic is a foundation of axiomatic semantics of classical programs,

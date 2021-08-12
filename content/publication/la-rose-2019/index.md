@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:00.964592Z'
+publishDate: '2021-08-12T15:41:24.541454Z'
 publication_types:
 - '2'
 abstract: Ryan LaRose, Quantum 3, 130 (2019). Quantum computers are available to use

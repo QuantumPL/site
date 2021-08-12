@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.945146Z'
+publishDate: '2021-08-12T15:41:32.177472Z'
 publication_types:
 - '1'
 abstract: In quantum computing, the basic unit of information is a qubit. Simulation

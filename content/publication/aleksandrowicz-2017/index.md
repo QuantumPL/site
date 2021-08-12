@@ -18,7 +18,7 @@ authors:
 - Jerry M. Chow
 - Antonio D. Córcoles-Gonzales
 - Abigail J. Cross
-- Andrew Cross
+- Andrew W. Cross
 - Juan Cruz-Benito
 - Chris Culver
 - Salvador De La Puente González
@@ -120,7 +120,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:57.322568Z'
+publishDate: '2021-08-12T15:41:19.487670Z'
 publication_types:
 - '0'
 abstract: Qiskit is an open-source framework for working with noisy quantum computers

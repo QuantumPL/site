@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:05.113953Z'
+publishDate: '2021-08-12T15:41:32.327467Z'
 publication_types:
 - '1'
 abstract: 'We derive a variant of quantum Hoare logic (QHL), called applied quantum

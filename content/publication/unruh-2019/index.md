@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.123148Z'
+publishDate: '2021-08-12T15:41:29.754219Z'
 publication_types:
 - '2'
 abstract: We present a logic for reasoning about pairs of interactive quantum programs

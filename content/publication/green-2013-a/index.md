@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:00.029574Z'
+publishDate: '2021-08-12T15:41:23.307742Z'
 publication_types:
 - '1'
 abstract: Quipper is a recently developed programming language for expressing quantum

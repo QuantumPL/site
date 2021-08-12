@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:02.584362Z'
+publishDate: '2021-08-12T15:41:27.224602Z'
 publication_types:
 - '7'
 abstract: " The field of quantum mechanics predates computer science by at least ten\

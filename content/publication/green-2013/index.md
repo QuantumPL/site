@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:59.937327Z'
+publishDate: '2021-08-12T15:41:23.170969Z'
 publication_types:
 - '1'
 abstract: The field of quantum algorithms is vibrant. Still, there is currently a

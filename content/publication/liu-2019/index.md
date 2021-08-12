@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:01.390136Z'
+publishDate: '2021-08-12T15:41:25.082498Z'
 publication_types:
 - '1'
 abstract: We formalize the theory of quantum Hoare logic (QHL) [TOPLAS 33(6),19],

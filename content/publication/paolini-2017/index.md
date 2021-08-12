@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:01.835908Z'
+publishDate: '2021-08-12T15:41:25.910504Z'
 publication_types:
 - '1'
 abstract: 'We propose qPCF, a functional language able to define and manipulate quantum

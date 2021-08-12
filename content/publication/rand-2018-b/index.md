@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:02.663159Z'
+publishDate: '2021-08-12T15:41:27.374767Z'
 publication_types:
 - '0'
 abstract: We explore the design space of using dependent types to type check and verify

@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:57.403159Z'
+publishDate: '2021-08-12T15:41:19.637520Z'
 publication_types:
 - '1'
 abstract: 'We introduce the language QML, a functional language for quantum computations

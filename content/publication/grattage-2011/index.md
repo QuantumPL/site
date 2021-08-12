@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:59.768776Z'
+publishDate: '2021-08-12T15:41:22.843366Z'
 publication_types:
 - '1'
 abstract: This paper gives an introduction to and overview of the functional quantum

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:00.324368Z'
+publishDate: '2021-08-12T15:41:23.728005Z'
 publication_types:
 - '3'
 abstract: We present sqire, a low-level language for quantum computing and verification.

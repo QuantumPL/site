@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:17:57.808102Z'
+publishDate: '2021-08-12T15:41:20.318560Z'
 publication_types:
 - '6'
 abstract: "In physics, Feynman diagrams are used to reason about quantum processes.\

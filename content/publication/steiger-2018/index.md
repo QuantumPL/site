@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:03.924384Z'
+publishDate: '2021-08-12T15:41:29.447439Z'
 publication_types:
 - '2'
 abstract: We introduce ProjectQ, an open source software effort for quantum computing.

@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T17:18:04.622077Z'
+publishDate: '2021-08-12T15:41:30.949967Z'
 publication_types:
 - '2'
 abstract: ' This paper develops verification methodology for quantum programs, and
