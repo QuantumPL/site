@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2004-08-01'
-lastmod: 2021-08-11T12:18:03-05:00
+lastmod: 2021-08-13T14:20:14-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:28.743502Z'
+publishDate: '2021-08-13T19:20:14.577869Z'
 publication_types:
 - '2'
 abstract: We propose the design of a programming language for quantum computing. Traditionally,
@@ -41,7 +41,5 @@ abstract: We propose the design of a programming language for quantum computing.
   orders of superoperators.
 publication: '*Mathematical Structures in Computer Science*'
 doi: 10.1017/S0960129504004256
-links:
-- name: URL
-  url: https://www.mathstat.dal.ca/~selinger/papers/papers/qpl.pdf
+url_pdf: https://www.mathstat.dal.ca/~selinger/papers/papers/qpl.pdf
 ---

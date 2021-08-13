@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2021-06-01'
-lastmod: 2021-08-11T12:18:05-05:00
+lastmod: 2021-08-13T14:20:17-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:32.177472Z'
+publishDate: '2021-08-13T19:20:17.356318Z'
 publication_types:
 - '1'
 abstract: In quantum computing, the basic unit of information is a qubit. Simulation
@@ -44,7 +44,5 @@ abstract: In quantum computing, the basic unit of information is a qubit. Simula
 publication: '*Proceedings of the 42nd ACM SIGPLAN International Conference on Programming
   Language Design and Implementation*'
 doi: 10.1145/3453483.3454061
-links:
-- name: URL
-  url: http://web.cs.ucla.edu/~palsberg/paper/pldi21-quantum.pdf
+url_pdf: http://web.cs.ucla.edu/~palsberg/paper/pldi21-quantum.pdf
 ---

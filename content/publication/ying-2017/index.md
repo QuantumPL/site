@@ -16,7 +16,7 @@ tags:
 - Program invariants
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-12T10:41:31-05:00
+lastmod: 2021-08-13T14:20:17-05:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:31.659505Z'
+publishDate: '2021-08-13T19:20:16.963888Z'
 publication_types:
 - '1'
 abstract: ' Program invariant is a fundamental notion widely used in program verification
@@ -56,7 +56,5 @@ abstract: ' Program invariant is a fundamental notion widely used in program ver
 publication: '*Proceedings of the 44th ACM SIGPLAN Symposium on Principles of Programming
   Languages*'
 doi: 10.1145/3009837.3009840
-links:
-- name: URL
-  url: https://opus.lib.uts.edu.au/bitstream/10453/127333/4/p818-ying.pdf
+url_pdf: https://opus.lib.uts.edu.au/bitstream/10453/127333/4/p818-ying.pdf
 ---

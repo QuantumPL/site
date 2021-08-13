@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2003-05-01'
-lastmod: 2021-08-11T12:18:01-05:00
+lastmod: 2021-08-13T14:20:12-05:00
 featured: false
 draft: false
 
@@ -27,12 +27,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:25.775677Z'
+publishDate: '2021-08-13T19:20:11.984429Z'
 publication_types:
 - '7'
 abstract: ''
 publication: ''
-links:
-- name: URL
-  url: http://www.itp.tuwien.ac.at/~oemer/doc/structquprog.pdf
+url_pdf: http://www.itp.tuwien.ac.at/~oemer/doc/structquprog.pdf
 ---

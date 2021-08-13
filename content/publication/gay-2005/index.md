@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-08-11T12:17:59-05:00
+lastmod: 2021-08-13T14:20:08-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:22.424337Z'
+publishDate: '2021-08-13T19:20:08.514232Z'
 publication_types:
 - '1'
 abstract: We define a language CQP (Communicating Quantum Processes) for modelling
@@ -46,9 +46,8 @@ abstract: We define a language CQP (Communicating Quantum Processes) for modelli
 publication: '*Proceedings of the 32nd ACM SIGPLAN-SIGACT Symposium on Principles
   of Programming Languages*'
 doi: 10.1145/1040305.1040318
+url_pdf: http://www.dcs.gla.ac.uk/~simon/publications/CQP-POPL.pdf
 links:
 - name: arXiv
   url: https://arxiv.org/abs/quant-ph/0409052
-- name: URL
-  url: http://www.dcs.gla.ac.uk/~simon/publications/CQP-POPL.pdf
 ---

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2007-04-01'
-lastmod: 2021-08-11T12:17:59-05:00
+lastmod: 2021-08-13T14:20:07-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:21.694455Z'
+publishDate: '2021-08-13T19:20:07.853543Z'
 publication_types:
 - '2'
 abstract: 'Measurement-based quantum computation has emerged from the physics community
@@ -54,7 +54,5 @@ abstract: 'Measurement-based quantum computation has emerged from the physics co
   and is not just particular to the one-way quantum computer.'
 publication: '*Journal of the ACM*'
 doi: 10.1145/1219092.1219096
-links:
-- name: URL
-  url: https://www.cs.mcgill.ca/~prakash/Pubs/jacm.pdf
+url_pdf: https://www.cs.mcgill.ca/~prakash/Pubs/jacm.pdf
 ---

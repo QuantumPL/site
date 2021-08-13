@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2009-11-01'
-lastmod: 2021-08-11T12:18:04-05:00
+lastmod: 2021-08-13T14:20:16-05:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:30.388179Z'
+publishDate: '2021-08-13T19:20:16.077523Z'
 publication_types:
 - '6'
 abstract: "This chapter presents a systematic exposition of predicate transformer\
@@ -45,7 +45,5 @@ abstract: "This chapter presents a systematic exposition of predicate transforme
   \ in the quantum setting."
 publication: '*Semantic Techniques in Quantum Computation*'
 doi: 10.1017/CBO9781139193313.009
-links:
-- name: URL
-  url: https://opus.lib.uts.edu.au/bitstream/10453/12965/1/2008004719.pdf
+url_pdf: https://opus.lib.uts.edu.au/bitstream/10453/12965/1/2008004719.pdf
 ---

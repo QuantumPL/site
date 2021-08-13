@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2009-11-01'
-lastmod: 2021-08-11T12:18:03-05:00
+lastmod: 2021-08-13T14:20:15-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-12T15:41:29.021209Z'
+publishDate: '2021-08-13T19:20:14.901872Z'
 publication_types:
 - '6'
 abstract: We discuss the design of a typed lambda calculus for quantum computation.
@@ -39,7 +39,5 @@ abstract: We discuss the design of a typed lambda calculus for quantum computati
   algorithm, and a categorical semantics.
 publication: '*Semantic Techniques in Quantum Computation*'
 doi: 10.1017/CBO9781139193313.005
-links:
-- name: URL
-  url: https://www.mscs.dal.ca/~selinger/papers/qlambdabook.pdf
+url_pdf: https://www.mscs.dal.ca/~selinger/papers/qlambdabook.pdf
 ---
