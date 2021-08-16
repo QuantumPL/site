@@ -44,4 +44,7 @@ abstract: The Heisenberg representation of quantum operators provides a powerful
 publication: '*Proceedings of the 17th International Conference on Quantum Physics
   and Logic (QPL), Paris, France, June 2--6, 2020*'
 url_pdf: https://people.cs.uchicago.edu/~rand/qpl_2020.pdf
+links:
+- name: URL
+  url: https://rand.cs.uchicago.edu/publication/rand-2020-gottesman/
 ---
