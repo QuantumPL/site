@@ -31,6 +31,6 @@ publishDate: '2021-08-12T15:41:31.479980Z'
 publication_types:
 - '5'
 abstract: ''
-publication: '*Morgan Kaufmann is an imprint of Elsevier*'
+publication: '*Morgan Kaufmann*'
 doi: 10.1016/C2014-0-02660-3
 ---
