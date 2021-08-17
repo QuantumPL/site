@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Chicago
-  url: ""
+  url: "http://ks.cs.uchicago.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Design and Verification of Programming Languages for realistic Quantum Computing.
@@ -61,6 +61,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
+# user_groups:
+# - Researchers
 ---
