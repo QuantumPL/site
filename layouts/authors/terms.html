@@ -13,7 +13,9 @@
   
   <ul>
     {{range $k, $v := sort .Data.Pages "Title" }}
+      {{ if not (eq $v.Title "Kartik") }}
       <li><a href="{{$v.Permalink}}">{{$v.Title}}</a></li>
+      {{ end }}
     {{end}}
   </ul>
 
