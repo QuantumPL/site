@@ -31,7 +31,16 @@ projects: []
 publishDate: '2021-08-16T16:44:24.166593Z'
 publication_types:
 - '5'
-abstract: ''
+abstract: Model checking is one of the most successful verification techniques and
+  has been widely adopted in traditional computing and communication hardware and
+  software industries. This book provides the first systematic introduction to model
+  checking techniques applicable to quantum systems, with broad potential applications
+  in the emerging industry of quantum computing and quantum communication as well
+  as quantum physics. Suitable for use as a course textbook and for self-study, graduate
+  and senior undergraduate students will appreciate the step-by-step explanations
+  and the exercises included. Researchers and engineers in the related fields can
+  further develop these techniques in their own work, with the final chapter outlining
+  potential future applications.
 publication: '*Cambridge University Press*'
 doi: 10.1017/9781108613323
 ---

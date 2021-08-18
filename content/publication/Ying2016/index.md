@@ -30,7 +30,16 @@ projects: []
 publishDate: '2021-08-16T16:44:23.785033Z'
 publication_types:
 - '5'
-abstract: ''
+abstract: Foundations of Quantum Programming discusses how new programming methodologies
+  and technologies developed for current computers can be extended to exploit the
+  unique power of quantum computers, which promise dramatic advantages in processing
+  speed over currently available computer systems. Governments and industries around
+  the globe are now investing vast amounts of money with the expectation of building
+  practical quantum computers. Drawing upon years of experience and research in quantum
+  computing research and using numerous examples and illustrations, Mingsheng Ying
+  has created a very useful reference on quantum programming languages and important
+  tools and techniques required for quantum programming, making the book a valuable
+  resource for academics, researchers, and developers.
 publication: '*Morgan Kaufmann*'
 doi: 10.1016/C2014-0-02660-3
 ---

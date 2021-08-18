@@ -31,7 +31,17 @@ projects: []
 publishDate: '2021-08-16T16:44:15.722902Z'
 publication_types:
 - '5'
-abstract: ''
+abstract: The study of computational processes based on the laws of quantum mechanics
+  has led to the discovery of new algorithms, cryptographic techniques, and communication
+  primitives. This book explores quantum computation from the perspective of the branch
+  of theoretical computer science known as semantics, as an alternative to the more
+  well-known studies of algorithmics, complexity theory, and information theory. It
+  collects chapters from leading researchers in the field, discussing the theory of
+  quantum programming languages, logics and tools for reasoning about quantum systems,
+  and novel approaches to the foundations of quantum mechanics. This book is suitable
+  for graduate students and researchers in quantum information and computation, as
+  well as those in semantics, who want to learn about a new field arising from the
+  application of semantic techniques to quantum information and computation.
 publication: '*Cambridge University Press*'
 doi: 10.1017/CBO9781139193313
 ---
