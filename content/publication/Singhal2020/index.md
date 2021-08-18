@@ -43,3 +43,4 @@ links:
 - name: URL
   url: http://ks.cs.uchicago.edu/publication/verified-translation/
 ---
+Talk at The First International Workshop on Programming Languages for Quantum Computing (PLanQC '20)

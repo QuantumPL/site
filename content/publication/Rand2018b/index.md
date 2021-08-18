@@ -42,3 +42,4 @@ links:
 - name: URL
   url: https://popl18.sigplan.org/event/coqpl-2018-phantom-types-for-quantum-programs
 ---
+Talk at The Fourth International Workshop on Coq for Programming Languages (CoqPL '18)
