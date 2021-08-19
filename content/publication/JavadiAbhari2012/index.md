@@ -44,7 +44,7 @@ projects: []
 publishDate: '2021-08-16T16:44:17.140916Z'
 publication_types:
 - '4'
-abstract: " Quantum computing is of significant research interest because of its potential\
+abstract: "Quantum computing is of significant research interest because of its potential\
   \ to radically alter the performance and asymptotic complexity of certain computations.\
   \ Over the years, physicists have explored possibilities for how to implement quantum\
   \ bits and logic devices in hardware. At a higher level, mathematicians and algorithmicists\
@@ -67,7 +67,7 @@ abstract: " Quantum computing is of significant research interest because of its
   \ coding techniques. As a quantum programming language (QPL), Scaffold was formulated\
   \ to make it easy to express an algorithm with so many disparate components in a\
   \ clean and efficient manner. It is from this notion of ``putting things together''\
-  \ that Scaffold derives its name. "
+  \ that Scaffold derives its name."
 publication: ''
 links:
 - name: URL

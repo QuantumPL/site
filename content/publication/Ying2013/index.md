@@ -33,9 +33,9 @@ projects: []
 publishDate: '2021-08-16T16:44:23.420143Z'
 publication_types:
 - '2'
-abstract: ' This paper develops verification methodology for quantum programs, and
-  the contribution of the paper is two-fold.  - Sharir, Pnueli and Hart [M. Sharir,
-  A. Pnueli, S. Hart, Verification of probabilistic programs, SIAM Journal of Computing
+abstract: This paper develops verification methodology for quantum programs, and the
+  contribution of the paper is two-fold.  - Sharir, Pnueli and Hart [M. Sharir, A.
+  Pnueli, S. Hart, Verification of probabilistic programs, SIAM Journal of Computing
   13 (1984) 292--314] presented a general method for proving properties of probabilistic
   programs, in which a probabilistic program is modeled by a Markov chain and an assertion
   on the output distribution is extended to an invariant assertion on all intermediate
@@ -54,7 +54,7 @@ abstract: ' This paper develops verification methodology for quantum programs, a
   the Sharir-Pnueli-Hart method by employing the matrix representation of super-operators
   and Jordan decomposition of matrices. In particular, this method enables us to compute
   easily the average running time and to analyze some interesting long-run behaviors
-  of quantum programs in a finite-dimensional state space. '
+  of quantum programs in a finite-dimensional state space.
 publication: '*Science of Computer Programming*'
 doi: 10.1016/j.scico.2013.03.016
 ---

@@ -30,7 +30,7 @@ projects: []
 publishDate: '2021-08-16T16:44:20.306027Z'
 publication_types:
 - '7'
-abstract: " The field of quantum mechanics predates computer science by at least ten\
+abstract: "The field of quantum mechanics predates computer science by at least ten\
   \ years, the time between the publication of the Schrodinger equation and the Church-Turing\
   \ thesis. It took another fifty years for Feynman to recognize that harnessing quantum\
   \ mechanics is necessary to efficiently simulate physics and for David Deutsch to\
@@ -58,7 +58,7 @@ abstract: " The field of quantum mechanics predates computer science by at least
   \ like ancilla management and reversible circuit compilation. Finally, we turn QWIRE\
   \ and Coq's abilities outwards, towards verifying popular quantum algorithms like\
   \ quantum teleportation. We argue that this tool provides a solid foundation for\
-  \ research into quantum programming languages and formal verification going forward. "
+  \ research into quantum programming languages and formal verification going forward."
 publication: ''
 links:
 - name: URL

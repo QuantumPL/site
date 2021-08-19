@@ -37,7 +37,7 @@ projects: []
 publishDate: '2021-08-16T16:44:23.910857Z'
 publication_types:
 - '1'
-abstract: ' Program invariant is a fundamental notion widely used in program verification
+abstract: 'Program invariant is a fundamental notion widely used in program verification
   and analysis. The aim of this paper is twofold: (i) find an appropriate definition
   of invariants for quantum programs; and (ii) develop an effective technique of invariant
   generation for verification and analysis of quantum programs.  Interestingly, the
@@ -52,7 +52,7 @@ abstract: ' Program invariant is a fundamental notion widely used in program ver
   examples show that the generated invariants can be used to verify correctness of
   these algorithms and are helpful in optimising quantum Metropolis sampling.  To
   our knowledge, this paper is the first attempt to define the notion of invariant
-  and to develop a method of invariant generation for quantum programs. '
+  and to develop a method of invariant generation for quantum programs.'
 publication: '*Proceedings of the 44th ACM SIGPLAN Symposium on Principles of Programming
   Languages*'
 doi: 10.1145/3009837.3009840
