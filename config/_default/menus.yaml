@@ -16,6 +16,9 @@ main:
   - name: Retro
     url: retro/bbt.html
     weight: 40
+  - name: BibBase
+    url: base
+    weight: 50
   # - name: Venues
   #   url: event
   #   weight: 40
