@@ -10,7 +10,10 @@ authors:
 - Shih-Han Hung
 - Liyi Li
 - Michael Hicks
-tags: []
+tags:
+- Formal Verification
+- Quantum Computing
+- Proof Engineering
 categories: []
 date: '2021-06-01'
 lastmod: 2021-08-16T11:44:17-05:00

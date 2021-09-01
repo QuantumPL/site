@@ -7,7 +7,9 @@ summary: ''
 authors:
 - Mingsheng Ying
 - Yuan Feng
-tags: []
+tags:
+- model checking
+- quantum computing
 categories: []
 date: '2021-01-01'
 lastmod: 2021-08-16T11:44:24-05:00

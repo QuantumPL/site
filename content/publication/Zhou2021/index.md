@@ -10,7 +10,18 @@ authors:
 - Justin Hsu
 - Mingsheng Ying
 - Nengkun Yu
-tags: []
+tags:
+- formal logic
+- quantum computing
+- substructural logic
+- separating conjunction
+- separable quantum states
+- program logic
+- imperative quantum programs
+- variational quantum algorithm
+- quantum interpretation
+- bunched logic
+- quantum separation logic
 categories: []
 date: '2021-07-01'
 lastmod: 2021-08-16T11:44:24-05:00

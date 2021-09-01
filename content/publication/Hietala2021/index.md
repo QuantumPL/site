@@ -10,7 +10,12 @@ authors:
 - Shih-Han Hung
 - Xiaodi Wu
 - Michael Hicks
-tags: []
+tags:
+- Programming Languages
+- Formal Verification
+- Certified Compilation
+- Quantum Computing
+- Circuit Optimization
 categories: []
 date: '2021-01-01'
 lastmod: 2021-08-16T11:44:16-05:00

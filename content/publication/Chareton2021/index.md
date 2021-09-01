@@ -11,7 +11,10 @@ authors:
 - Fran{\c c}ois Bobot
 - Valentin Perrelle
 - Beno{\^i}t Valiron
-tags: []
+tags:
+- deductive verification
+- quantum programming
+- quantum circuits
 categories: []
 date: '2021-03-01'
 lastmod: 2021-08-16T11:44:14-05:00
