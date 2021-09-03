@@ -8,7 +8,12 @@ authors:
 - Kartik Singhal
 - Robert Rand
 - Michael Hicks
-tags: []
+tags:
+- Formal Verification
+- NISQ
+- Program Proof
+- Programming Languages
+- Semantic Preservation
 categories: []
 date: '2020-01-01'
 lastmod: 2021-08-16T11:44:22-05:00
@@ -31,16 +36,16 @@ image:
 projects: []
 publishDate: '2021-08-16T16:44:21.992393Z'
 publication_types:
-- '0'
+- '1'
 abstract: We describe the ongoing development of a verified translator between OpenQASM
   (Open Quantum Assembly Language) and sqir, a Small Quantum Intermediate Representation
   used for circuit optimization. Verified translation from and to OpenQASM will allow
   verified optimization of circuits written in a variety of tools and executed on
   real quantum computers. This translator is a step toward a verified compilation
   stack for quantum computing.
-publication: ''
+publication: "*Informal Proceedings of the First International Workshop on Programming\
+  \ Languages for Quantum Computing (PLanQC '20)*"
 links:
 - name: URL
   url: http://ks.cs.uchicago.edu/publication/verified-translation/
 ---
-Talk at The First International Workshop on Programming Languages for Quantum Computing (PLanQC '20)

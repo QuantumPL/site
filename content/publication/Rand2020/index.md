@@ -9,7 +9,10 @@ authors:
 - Aarthi Sundaram
 - Kartik Singhal
 - Brad Lackey
-tags: []
+tags:
+- Quantum Computing
+- Type Systems
+- Gottesman Types
 categories: []
 date: '2020-06-01'
 lastmod: 2021-08-16T11:44:20-05:00
@@ -47,4 +50,5 @@ url_pdf: https://people.cs.uchicago.edu/~rand/qpl_2020.pdf
 links:
 - name: URL
   url: https://rand.cs.uchicago.edu/publication/rand-2020-gottesman/
+doi: 10.4204/EPTCS.340.14
 ---

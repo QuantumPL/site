@@ -48,4 +48,7 @@ abstract: Quantum computation offers a promising new kind of information process
   between this field and other branches of physics and mathematics.
 publication: '*Nature Physics*'
 doi: 10.1038/nphys1157
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/0910.1116
 ---
