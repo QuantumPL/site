@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2021-08-16T16:44:19.871500Z'
 publication_types:
-- '0'
+- '9'
 abstract: Qiskit is an open-source framework for working with noisy quantum computers
   at the level of pulses, circuits, and algorithms. https://qiskit.org
 publication: ''
