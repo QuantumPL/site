@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-08-16T16:44:16.724878Z'
 publication_types:
-- '3'
+- '0'
 abstract: We present sqire, a low-level language for quantum computing and verification.
   sqire uses a global register of quantum bits, allowing easy compilation to and from
   existing `quantum assembly' languages and simplifying the verification process.
