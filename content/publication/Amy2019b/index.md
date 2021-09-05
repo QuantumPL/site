@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2019-05-01'
-lastmod: 2021-09-04T07:13:37-05:00
+lastmod: 2021-09-05T09:05:16-05:00
 featured: false
 draft: false
 
@@ -27,6 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2021-09-05T14:05:16.748505Z'
 publication_types:
 - '1'
 abstract: One of the most fundamental aspects of quantum circuit design is the concept

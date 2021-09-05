@@ -6,10 +6,14 @@ subtitle: ''
 summary: ''
 authors:
 - Matthew Amy
-tags: []
+tags:
+- Quantum computing
+- Quantum circuits
+- Compiler optimization
+- Formal verification
 categories: []
 date: '2019-02-01'
-lastmod: 2021-08-16T11:44:13-05:00
+lastmod: 2021-09-05T09:05:16-05:00
 featured: false
 draft: false
 
@@ -27,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:13.121859Z'
+publishDate: '2021-09-05T14:05:16.614020Z'
 publication_types:
 - '7'
 abstract: The design and compilation of correct, efficient quantum circuits is integral
@@ -60,7 +64,6 @@ abstract: The design and compilation of correct, efficient quantum circuits is i
   assistant F*. The compiler is structured as a partial evaluator, allowing verification
   to be carried out significantly faster than previous results.
 publication: ''
-doi: 10.1007/978-3-030-21500-2_6
 links:
 - name: URL
   url: http://hdl.handle.net/10012/14480

@@ -64,4 +64,4 @@ links:
 - name: URL
   url: https://repository.upenn.edu/edissertations/3175
 ---
-Publicly Accessible Penn Dissertations. 3175. See Ch. 3 for \"A Brief History of Quantum Programming and Verification\", which is an excellent recent survey of the area
+Publicly Accessible Penn Dissertations. 3175. See Ch. 3 for \"A Brief History of Quantum Programming and Verification\", which is an excellent recent survey of the area.

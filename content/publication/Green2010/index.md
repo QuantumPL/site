@@ -6,7 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Alexander S. Green
-tags: []
+tags:
+- quantum programming
+- computer programming
+- computer languages
+- haskell
+- monadic structure
+- quantum io monad
 categories: []
 date: '2010-07-01'
 lastmod: 2021-08-16T11:44:16-05:00

@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-16T11:44:13-05:00
+lastmod: 2021-09-05T09:05:16-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:12.956802Z'
+publishDate: '2021-09-05T14:05:16.459294Z'
 publication_types:
 - '1'
 abstract: We introduce a framework for the formal specification and verification of

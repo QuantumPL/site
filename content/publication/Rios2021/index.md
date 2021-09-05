@@ -6,7 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Francisco Rios
-tags: []
+tags:
+- Quantum programming language
+- Categorical model
+- Quantum circuit
+- Proto-Quipper-M
+- Category theory
+- Quantum computing
 categories: []
 date: '2021-08-01'
 lastmod: 2021-09-04T17:57:53-05:00
@@ -54,5 +60,7 @@ abstract: This thesis contains contributions to the mathematical foundations of 
   linear logic. Finally, we crystallize the connection between the syntax and the
   semantics of the language by proving the soundness theorem for Proto-Quipper-M.
 publication: ''
-url_pdf: https://dalspace.library.dal.ca/bitstream/handle/10222/80771/FranciscoRios2021.pdf
+links:
+- name: URL
+  url: https://dalspace.library.dal.ca/handle/10222/80771
 ---
