@@ -12,7 +12,7 @@ tags:
 - algebraic effects
 categories: []
 date: '2015-01-01'
-lastmod: 2021-08-24T12:58:52-05:00
+lastmod: 2021-09-06T11:48:31-05:00
 featured: false
 draft: false
 
@@ -46,3 +46,4 @@ publication: '*Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Pr
 doi: 10.1145/2676726.2676999
 url_pdf: http://www.cs.ox.ac.uk/people/samuel.staton/papers/popl2015.pdf
 ---
+POPL '15. 

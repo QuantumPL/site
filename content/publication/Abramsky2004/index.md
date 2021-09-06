@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2004-07-01'
-lastmod: 2021-08-16T11:44:12-05:00
+lastmod: 2021-09-06T11:48:18-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:12.456145Z'
 publication_types:
 - '1'
 abstract: "We study quantum information and computation from a novel point of view.\
@@ -54,3 +53,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/quant-ph/0402130
 ---
+LICS '04. 

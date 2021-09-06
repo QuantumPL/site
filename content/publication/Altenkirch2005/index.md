@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2005-06-01'
-lastmod: 2021-08-16T11:44:12-05:00
+lastmod: 2021-09-06T11:48:19-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:12.590345Z'
 publication_types:
 - '1'
 abstract: 'We introduce the language QML, a functional language for quantum computations
@@ -46,4 +45,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/quant-ph/0409065
 ---
-Introduces QML, see also [[Grattage2011](../Grattage2011)]
+LICS '05. Introduces QML, see also [[Grattage2011](../Grattage2011)]

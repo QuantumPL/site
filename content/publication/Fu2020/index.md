@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-07-01'
-lastmod: 2021-08-16T11:44:15-05:00
+lastmod: 2021-09-06T11:48:22-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:15.205008Z'
 publication_types:
 - '1'
 abstract: Modern quantum programming languages integrate quantum resources and classical
@@ -51,3 +50,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2004.13472
 ---
+LICS '20. 

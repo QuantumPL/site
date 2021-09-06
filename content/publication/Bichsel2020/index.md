@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2021-08-16T11:44:13-05:00
+lastmod: 2021-09-06T11:48:20-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:13.686263Z'
 publication_types:
 - '1'
 abstract: Existing quantum languages force the programmer to work at a low level of
@@ -50,3 +49,4 @@ publication: '*Proceedings of the 41st ACM SIGPLAN Conference on Programming Lan
 doi: 10.1145/3385412.3386007
 url_pdf: https://files.sri.inf.ethz.ch/website/papers/pldi20-silq.pdf
 ---
+PLDI '20. 

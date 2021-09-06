@@ -24,7 +24,7 @@ tags:
 - quantum separation logic
 categories: []
 date: '2021-07-01'
-lastmod: 2021-08-16T11:44:24-05:00
+lastmod: 2021-09-06T11:48:34-05:00
 featured: false
 draft: false
 
@@ -42,7 +42,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:24.602595Z'
 publication_types:
 - '1'
 abstract: We propose a model of the substructural logic of Bunched Implications (BI)
@@ -60,3 +59,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2102.00329
 ---
+LICS '21. 

@@ -9,7 +9,7 @@ authors:
 tags: []
 categories: []
 date: '2019-06-01'
-lastmod: 2021-08-16T11:44:22-05:00
+lastmod: 2021-09-06T11:48:31-05:00
 featured: false
 draft: false
 
@@ -27,7 +27,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:22.627701Z'
 publication_types:
 - '1'
 abstract: Quantum Hoare logic allows us to reason about quantum programs. We present
@@ -46,3 +45,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1902.00325
 ---
+LICS '19. 

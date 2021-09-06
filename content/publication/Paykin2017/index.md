@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2021-08-16T11:44:19-05:00
+lastmod: 2021-09-06T11:48:27-05:00
 featured: false
 draft: false
 
@@ -29,7 +29,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:19.481487Z'
 publication_types:
 - '1'
 abstract: This paper introduces QWIRE (``choir''), a language for defining quantum
@@ -50,3 +49,4 @@ publication: '*Proceedings of the 44th ACM SIGPLAN Symposium on Principles of Pr
 doi: 10.1145/3009837.3009894
 url_pdf: https://jpaykin.github.io/papers/prz_qwire_2017.pdf
 ---
+POPL '17. 

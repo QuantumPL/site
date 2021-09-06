@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2021-08-16T11:44:15-05:00
+lastmod: 2021-09-06T11:48:22-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:15.481285Z'
 publication_types:
 - '1'
 abstract: We define a language CQP (Communicating Quantum Processes) for modelling
@@ -51,3 +50,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/quant-ph/0409052
 ---
+POPL '05. 

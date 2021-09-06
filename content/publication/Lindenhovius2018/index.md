@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-07-01'
-lastmod: 2021-08-16T11:44:18-05:00
+lastmod: 2021-09-06T11:48:25-05:00
 featured: false
 draft: false
 
@@ -30,7 +30,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:18.003437Z'
 publication_types:
 - '1'
 abstract: Linear/non-linear (LNL) models, as described by Benton, soundly model a
@@ -49,3 +48,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1804.09822
 ---
+LICS '18. 

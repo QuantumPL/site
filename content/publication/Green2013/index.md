@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2013-06-01'
-lastmod: 2021-08-16T11:44:16-05:00
+lastmod: 2021-09-06T11:48:23-05:00
 featured: false
 draft: false
 
@@ -31,7 +31,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:16.187222Z'
 publication_types:
 - '1'
 abstract: The field of quantum algorithms is vibrant. Still, there is currently a
@@ -51,3 +50,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1304.3390
 ---
+PLDI '13. 
