@@ -41,7 +41,5 @@ publication: ''
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1904.04304
-- name: Video
-  url: https://www.youtube.com/watch?v=NqyWlK51Rwk
 ---
-Submitted as a qualifying examination (WPE-II) for the PhD program at the University of Pennsylvania
+Submitted as a qualifying examination (WPE-II) for the PhD program at the University of Pennsylvania.

@@ -60,4 +60,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1803.00652
 ---
-See also Ch. 8 of [[Heim2020](../Heim2020)]
+RWDSL '18. See also Ch. 8 of [[Heim2020](../Heim2020)]
