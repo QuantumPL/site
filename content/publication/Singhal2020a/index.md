@@ -30,6 +30,8 @@ tags:
 - Program Specifications
 doi: 10.4204/EPTCS.340.15
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2109.02198
 - name: URL
   url: http://ks.cs.uchicago.edu/publication/qhtt/
 ---
