@@ -5,7 +5,7 @@ title: 'Quantum Programming with Inductive Datatypes: Causality and Affine Type 
 subtitle: ''
 summary: ''
 authors:
-- Romain P{\'e}choux
+- Romain Péchoux
 - Simon Perdrix
 - Mathys Rennela
 - Vladimir Zamdzhiev

@@ -7,9 +7,9 @@ summary: ''
 authors:
 - H. J. Briegel
 - D. E. Browne
-- W. D{\"u}r
+- W. Dür
 - R. Raussendorf
-- M. {Van den Nest}
+- M. Van den Nest
 tags: []
 categories: []
 date: '2009-01-01'

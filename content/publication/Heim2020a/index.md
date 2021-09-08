@@ -8,7 +8,7 @@ authors:
 - Bettina Heim
 - Mathias Soeken
 - Sarah Marshall
-- Chris Granade
+- Christopher E. Granade
 - Martin Roetteler
 - Alan Geller
 - Matthias Troyer

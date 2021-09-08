@@ -5,7 +5,7 @@ title: 'Scaffold: Quantum Programming Language'
 subtitle: ''
 summary: ''
 authors:
-- Ali {Javadi-Abhari}
+- Ali Javadi-Abhari
 - Arvin Faruque
 - Mohammad Javad Dousti
 - Lukas Svec

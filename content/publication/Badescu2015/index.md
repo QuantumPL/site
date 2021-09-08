@@ -5,7 +5,7 @@ title: 'Quantum Alternation: Prospects and Problems'
 subtitle: ''
 summary: ''
 authors:
-- Costin B{\u a}descu
+- Costin Bădescu
 - Prakash Panangaden
 tags: []
 categories: []

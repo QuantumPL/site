@@ -9,7 +9,7 @@ authors:
 - Peter LeFanu Lumsdaine
 - Neil J. Ross
 - Peter Selinger
-- Beno{\^i}t Valiron
+- Benoît Valiron
 tags: []
 categories: []
 date: '2013-06-01'

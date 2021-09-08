@@ -5,7 +5,7 @@ title: 'Quantum Programming Languages: An Introductory Overview'
 subtitle: ''
 summary: ''
 authors:
-- Roland R{\"u}diger
+- Roland Rüdiger
 tags: []
 categories: []
 date: '2007-03-01'

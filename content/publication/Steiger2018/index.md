@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Damian S. Steiger
-- Thomas H{\"a}ner
+- Thomas Häner
 - Matthias Troyer
 tags: []
 categories: []

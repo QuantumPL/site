@@ -5,7 +5,7 @@ title: Programming the Quantum Future
 subtitle: ''
 summary: ''
 authors:
-- Beno{\^i}t Valiron
+- Benoît Valiron
 - Neil J. Ross
 - Peter Selinger
 - D. Scott Alexander

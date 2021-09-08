@@ -7,10 +7,10 @@ subtitle: ''
 summary: ''
 authors:
 - Christophe Chareton
-- S{\'e}bastien Bardin
-- Fran{\c c}ois Bobot
+- Sébastien Bardin
+- François Bobot
 - Valentin Perrelle
-- Beno{\^i}t Valiron
+- Benoît Valiron
 tags:
 - deductive verification
 - quantum programming

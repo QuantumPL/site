@@ -5,7 +5,7 @@ title: Structured Quantum Programming
 subtitle: ''
 summary: ''
 authors:
-- Bernhard {\"O}mer
+- Bernhard Ömer
 tags: []
 categories: []
 date: '2003-05-01'

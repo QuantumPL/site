@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Amr Sabry
-- Beno{\^i}t Valiron
+- Benoît Valiron
 - Juliana Kaizer Vizzotto
 tags: []
 categories: []

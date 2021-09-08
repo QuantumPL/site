@@ -5,7 +5,7 @@ title: 'ScaffCC: Scalable Compilation and Analysis of Quantum Programs'
 subtitle: ''
 summary: ''
 authors:
-- Ali {Javadi-Abhari}
+- Ali Javadi-Abhari
 - Shruti Patil
 - Daniel Kudrow
 - Jeff Heckey

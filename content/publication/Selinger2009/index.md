@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Peter Selinger
-- Beno{\^i}t Valiron
+- Benoît Valiron
 tags: []
 categories: []
 date: '2009-11-01'

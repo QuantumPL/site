@@ -10,7 +10,7 @@ authors:
 - Alan Geller
 - Matthias Troyer
 - John Azariah
-- Christopher Granade
+- Christopher E. Granade
 - Bettina Heim
 - Vadym Kliuchnikov
 - Mariia Mykhailova
