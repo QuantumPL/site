@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 't|ket⟩: a retargetable compiler for NISQ devices'
+title: 't$|$ket$\rangle$: a retargetable compiler for NISQ devices'
 subtitle: ''
 summary: ''
 authors:
@@ -34,8 +34,8 @@ image:
 projects: []
 publication_types:
 - '2'
-abstract: We present t|ket⟩, a quantum software development platform produced
-  by Cambridge Quantum Computing Ltd. The heart of t|ket⟩ is a language-agnostic
+abstract: We present t$|$ket$\rangle$, a quantum software development platform produced
+  by Cambridge Quantum Computing Ltd. The heart of t$|$ket$\rangle$ is a language-agnostic
   optimising compiler designed to generate code for a variety of NISQ devices, which
   has several features designed to minimise the influence of device error. The compiler
   has been extensively benchmarked and outperforms most competitors in terms of circuit
