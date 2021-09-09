@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Jennifer Paykin
 tags: []
-categories: []
+categories: ['PhD Thesis']
 date: '2018-08-01'
 lastmod: 2021-09-04T06:42:51-05:00
 featured: false
