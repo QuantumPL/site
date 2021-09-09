@@ -14,7 +14,7 @@ authors:
 - Matthias Troyer
 - Krysta M. Svore
 tags: []
-categories: []
+categories: ['Survey']
 date: '2020-12-01'
 lastmod: 2021-08-16T11:44:16-05:00
 featured: false
