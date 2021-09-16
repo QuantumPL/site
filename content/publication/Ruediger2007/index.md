@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Roland Rüdiger
 tags: []
-categories: ['Survey']
+categories: [Survey]
 date: '2007-03-01'
 lastmod: 2021-08-16T11:44:21-05:00
 featured: false

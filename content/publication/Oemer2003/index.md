@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Bernhard Ömer
 tags: []
-categories: ['PhD Thesis']
+categories: [PhD Thesis]
 date: '2003-05-01'
 lastmod: 2021-08-16T11:44:19-05:00
 featured: false
