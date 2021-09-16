@@ -36,9 +36,9 @@ abstract: 'We develop a new framework of algebraic theories with linear paramete
   and use it to analyze the equational reasoning principles of quantum computing and
   quantum programming languages. We use the framework as follows: we present a new
   elementary algebraic theory of quantum computation, built from unitary gates and
-  measurement;we provide a completeness theorem or the elementary algebraic theory
+  measurement; we provide a completeness theorem or the elementary algebraic theory
   by relating it with a model from operator algebra; we extract an equational theory
-  for a quantum programming language from the algebraic theory;we compare quantum
+  for a quantum programming language from the algebraic theory; we compare quantum
   computation with other local notions of computation by investigating variations
   on the algebraic theory.'
 publication: '*Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles
