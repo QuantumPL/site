@@ -36,8 +36,8 @@ abstract: "We study quantum information and computation from a novel point of vi
   \ with biproducts. We show how the essential structures found in key quantum information\
   \ protocols such as teleportation, logic-gate teleportation, and entanglement-swapping\
   \ can be captured at this abstract level. Moreover, from the combination of the\
-  \ --apparently purely qualitative-- structures of compact closure and biproducts\
-  \ there emerge `scalars` and a `Born rule'. This abstract and structural point of\
+  \ -- apparently purely qualitative -- structures of compact closure and biproducts\
+  \ there emerge 'scalars' and a 'Born rule'. This abstract and structural point of\
   \ view opens up new possibilities for describing and reasoning about quantum systems.\
   \ It also shows the degrees of axiomatic freedom: we can show what requirements\
   \ are placed on the (semi)ring of scalars C(I,I), where C is the category and I\
@@ -53,4 +53,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/quant-ph/0402130
 ---
-LICS '04. 
+LICS '04. Also see updated version: [[Abramsky2008](../Abramsky2008)]

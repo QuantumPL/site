@@ -35,7 +35,7 @@ abstract: 'We survey the landscape of Hoare logics for quantum programs. We revi
   and Sernadas; \"A logic for formal verification of quantum programs\" by Yoshihiko
   Kakutani; and \"Floyd-hoare logic for quantum programs\" by Mingsheng Ying. We compare
   the mathematical foundations of the logics, their underlying languages, and the
-  expressivity of their assertions. We also use the languages to verify the Deutsch-Jozsa
+  expressivity of their assertions. We also use the languages to verify the Deutsch--Jozsa
   Algorithm, and discuss their relative usability in practice.'
 publication: ''
 links:
