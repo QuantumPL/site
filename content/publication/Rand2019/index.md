@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Robert Rand
 - Jennifer Paykin
-- Dong-Ho Lee
+- Dongho Lee
 - Steve Zdancewic
 tags: []
 categories: []

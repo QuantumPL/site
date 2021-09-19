@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Christophe Chareton
 - Sébastien Bardin
-- Dong-Ho Lee
+- Dongho Lee
 - Benoît Valiron
 - Renaud Vilmart
 - Zhaowei Xu
