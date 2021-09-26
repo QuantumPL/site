@@ -47,5 +47,5 @@ publication: "*Informal Proceedings of the First International Workshop on Progr
   \ Languages for Quantum Computing (PLanQC '20)*"
 links:
 - name: URL
-  url: http://ks.cs.uchicago.edu/publication/verified-translation/
+  url: https://ks.cs.uchicago.edu/publication/verified-translation/
 ---

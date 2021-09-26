@@ -30,6 +30,6 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2012.02154
 - name: URL
-  url: http://ks.cs.uchicago.edu/publication/qhtt-masters/
+  url: https://ks.cs.uchicago.edu/publication/qhtt-masters/
 ---
 See also: [[Singhal2020a](../Singhal2020a)]
