@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Kostia Chardonnet
-- Beno^it Valiron
+- Benoît Valiron
 - Renaud Vilmart
 tags:
 - Quantum Computation
