@@ -1,16 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Classical Control and Quantum Circuits in Enriched Category Theory
+title: Classical Control, Quantum Circuits and Linear Logic in Enriched Category Theory
 subtitle: ''
 summary: ''
 authors:
 - Mathys Rennela
 - Sam Staton
-tags: []
+tags:
+- Programming Languages
+- Category Theory
+- Operator Algebras
 categories: []
-date: '2018-04-01'
-lastmod: 2021-08-16T11:44:20-05:00
+date: '2020-03-01'
+lastmod: 2021-09-30T13:07:49-05:00
 featured: false
 draft: false
 
@@ -28,9 +31,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:20.791822Z'
 publication_types:
-- '1'
+- '2'
 abstract: We describe categorical models of a circuit-based (quantum) functional programming
   language. We show that enriched categories play a crucial role. Following earlier
   work on QWire by Paykin et al., we consider both a simple first-order linear language
@@ -38,11 +40,11 @@ abstract: We describe categorical models of a circuit-based (quantum) functional
   is embedded inside the host language. Our categorical semantics for the host language
   is standard, and involves cartesian closed categories and monads. We interpret the
   circuit language not in an ordinary category, but in a category that is enriched
-  in the host category. As an extended example, we recall an earlier result that the
-  category of W*-algebras is dcpo-enriched, and we use this model to extend the circuit
-  language with some recursive types.
-publication: '*The Thirty-Third Conference on the Mathematical Foundations of Programming
-  Semantics (MFPS XXXIII)*'
-doi: 10.1016/j.entcs.2018.03.027
+  in the host category. We show that this structure is also related to linear/non-linear
+  models. As an extended example, we recall an earlier result that the category of
+  W*-algebras is dcpo-enriched, and we use this model to extend the circuit language
+  with some recursive types.
+publication: '*Logical Methods in Computer Science*'
+doi: 10.23638/LMCS-16(1:30)2020
 ---
-See also the later version: [[Rennela2020](../Rennela2020)]
+Expands and develops upon [[Rennela2018](../Rennela2018)]
