@@ -32,4 +32,6 @@ During our last weekly meeting, Robert and I came up with the idea of presenting
 
 So I decided to move the GitHub repo to its [own organization](https://github.com/QuantumPL) and set up this Hugo-based website to present publications with many filtering options. One can also click on an author's name to see just their publications.
 
-I will consider move the older bibtex2html based bibliography somewhere here as well.
+I will consider moving the older `bibtex2html`-based bibliography somewhere here as well.
+
+EDIT (2021-09-30): See the [Retro](../../retro/bbt.html) link in the navigation bar for `bibtex2html` rendering.

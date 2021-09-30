@@ -64,3 +64,4 @@ highlight_name: false
 # user_groups:
 # - Researchers
 ---
+Also see my [author page](/bib/author/Kartik-Singhal/) and [homepage](https://ks.cs.uchicago.edu/).

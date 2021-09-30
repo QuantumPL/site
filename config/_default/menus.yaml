@@ -4,6 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: About
+    url: about
+    weight: 05
   - name: Publications
     url: publication
     weight: 10
