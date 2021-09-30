@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-ZX-Calculus is a sub-field of its own. A comprehensive bibliography is available at https://zxcalculus.com. This site only includes Zx-related papers that may be relevant to programming languages and/or program verification.
+ZX-Calculus is a sub-field of its own. A comprehensive bibliography is available at https://zxcalculus.com. This site only includes ZX-related papers that may be relevant to programming languages and/or program verification.
