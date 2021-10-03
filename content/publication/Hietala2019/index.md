@@ -36,7 +36,7 @@ publication_types:
 - '0'
 abstract: We present sqire, a low-level language for quantum computing and verification.
   sqire uses a global register of quantum bits, allowing easy compilation to and from
-  existing `quantum assembly' languages and simplifying the verification process.
+  existing 'quantum assembly' languages and simplifying the verification process.
   We demonstrate the power of sqire as an intermediate representation of quantum programs
   by verifying a number of useful optimizations, and we demonstrate sqire's use as
   a tool for general verification by proving several quantum programs correct.

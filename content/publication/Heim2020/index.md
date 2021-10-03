@@ -49,18 +49,18 @@ abstract: The aim of this thesis is to identify practical applications where qua
   approach that doesn't suffer from the same issues that impede performance on analogue
   devises. To that effect, we construct and implement an efficient quantization of
   the Metropolis-Hastings algorithm. Opposed to following the common way of quantization
-  `a la Szegedy that is usually defined with respect to an oracle, we reformulate
-  the walk to closely mimic the classical algorithm and thus circumvent having to
-  rely on costly quantum arithmetics. Our proposed realization thereby can lead to
-  substantial savings. While theoretical arguments promise a quadratic speedup in
-  the asymptotic limit, we numerically confirm that a polynomial speedup in terms
-  of minimal total time to solution can be achieved for pragmatic use. We explore
-  the prospects of using quantum walks in a heuristic setting and estimate the gate
-  times the would be required to outperform a classical supercomputer. Finally, we
-  elaborate on the role of programming languages, and how software tools can accelerate
-  the advancement of the field. We discuss unique aspects of quantum programming and
-  the purpose of Q# in particular, and conclude by highlighting what developments
-  are needed for quantum computing to live up to its potential.
+  à la Szegedy that is usually defined with respect to an oracle, we reformulate the
+  walk to closely mimic the classical algorithm and thus circumvent having to rely
+  on costly quantum arithmetics. Our proposed realization thereby can lead to substantial
+  savings. While theoretical arguments promise a quadratic speedup in the asymptotic
+  limit, we numerically confirm that a polynomial speedup in terms of minimal total
+  time to solution can be achieved for pragmatic use. We explore the prospects of
+  using quantum walks in a heuristic setting and estimate the gate times the would
+  be required to outperform a classical supercomputer. Finally, we elaborate on the
+  role of programming languages, and how software tools can accelerate the advancement
+  of the field. We discuss unique aspects of quantum programming and the purpose of
+  Q# in particular, and conclude by highlighting what developments are needed for
+  quantum computing to live up to its potential.
 publication: ''
 doi: 10.3929/ethz-b-000468201
 ---

@@ -58,4 +58,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2107.13347
 ---
-To appear at POPL 2022 as ``Semantics for Probabilistic and Quantum Effects''
+To appear at POPL 2022 as \"Semantics for Probabilistic and Quantum Effects\"

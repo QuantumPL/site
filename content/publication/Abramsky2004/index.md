@@ -44,7 +44,7 @@ abstract: "We study quantum information and computation from a novel point of vi
   \ is the tensor unit, in order to perform various protocols such as teleportation.\
   \ Our formalism captures both the information-flow aspect of the protocols (see\
   \ quant-ph/0402014), and the branching due to quantum indeterminism. This contrasts\
-  \ with the standard accounts, in which the classical information flows are `outside'\
+  \ with the standard accounts, in which the classical information flows are 'outside'\
   \ the usual quantum-mechanical formalism."
 publication: '*Proceedings of the 19th Annual IEEE Symposium on Logic in Computer
   Science*'

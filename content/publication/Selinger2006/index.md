@@ -33,7 +33,7 @@ publication_types:
 - '2'
 abstract: In this paper we develop a functional programming language for quantum computers
   by extending the simply-typed lambda calculus with quantum types and operations.
-  The design of this language adheres to the `quantum data, classical control' paradigm,
+  The design of this language adheres to the 'quantum data, classical control' paradigm,
   following the first author's work on quantum flow-charts. We define a call-by-value
   operational semantics, and give a type system using affine intuitionistic linear
   logic. The main results of this paper are the safety properties of the language

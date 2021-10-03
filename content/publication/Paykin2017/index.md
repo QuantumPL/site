@@ -31,7 +31,7 @@ image:
 projects: []
 publication_types:
 - '1'
-abstract: This paper introduces QWIRE (``choir''), a language for defining quantum
+abstract: This paper introduces QWIRE (\"choir\"), a language for defining quantum
   circuits and an interface for manipulating them inside of an arbitrary classical
   host language. QWIRE is minimal---it contains only a few primitives---and sound
   with respect to the physical properties entailed by quantum mechanics. At the same
