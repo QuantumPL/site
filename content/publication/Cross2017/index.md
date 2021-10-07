@@ -9,7 +9,12 @@ authors:
 - Lev S. Bishop
 - John A. Smolin
 - Jay M. Gambetta
-tags: []
+tags:
+- QASM
+- Quantum Assembly Language
+- OpenQASM
+- quantum computing
+- quantum information
 categories: []
 date: '2017-07-01'
 lastmod: 2021-08-16T11:44:14-05:00
@@ -46,4 +51,4 @@ links:
 - name: URL
   url: https://github.com/Qiskit/openqasm/tree/OpenQASM2.x
 ---
-OpenQASM 2.0
+OpenQASM 2.0, see [[Cross2021](../Cross2021)] for OpenQASM 3

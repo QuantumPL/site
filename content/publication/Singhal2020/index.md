@@ -14,6 +14,9 @@ tags:
 - Program Proof
 - Programming Languages
 - Semantic Preservation
+- OpenQASM
+- QASM
+- quantum computing
 categories: []
 date: '2020-01-01'
 lastmod: 2021-08-16T11:44:22-05:00

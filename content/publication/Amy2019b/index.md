@@ -6,7 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Matthew Amy
-tags: []
+tags:
+- quantum computing
+- OpenQASM
+- QASM
 categories: []
 date: '2019-05-01'
 lastmod: 2021-09-05T09:05:16-05:00
