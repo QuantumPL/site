@@ -10,7 +10,10 @@ authors:
 - Neil J. Ross
 - Peter Selinger
 - Benoît Valiron
-tags: []
+tags:
+- Quantum Computation
+- Programming Languages
+- Quipper
 categories: []
 date: '2013-07-01'
 lastmod: 2021-08-16T11:44:16-05:00
