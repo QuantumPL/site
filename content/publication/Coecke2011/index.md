@@ -46,3 +46,4 @@ abstract: 'This paper has two tightly intertwined aims: (i) to introduce an intu
 publication: '*New Journal of Physics*'
 doi: 10.1088/1367-2630/13/4/043016
 ---
+Corrects several errors in and supersedes the earlier ICALP 2008 conference paper.

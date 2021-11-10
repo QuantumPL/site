@@ -52,5 +52,5 @@ publication: '*Journal of Automated Reasoning*'
 doi: 10.1007/s10817-020-09584-7
 links:
 - name: URL
-  url: https://github.com/AnthonyBordg/Isabelle_marries_Dirac
+  url: https://www.isa-afp.org/entries/Isabelle_Marries_Dirac.html
 ---
