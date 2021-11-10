@@ -54,3 +54,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1810.11334
 ---
+See also the published version [[Ying2021a](../Ying2021a)]
