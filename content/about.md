@@ -42,3 +42,5 @@ Other resources:
 - An [external bibliography](https://zxcalculus.com/publications.html) of [ZX-calculus](../tag/ZX-Calculus) publications.
 
 We hope you find this community resource useful. If you have any questions or comments, please don't hesitate to contact [Kartik](https://ks.cs.uchicago.edu/).
+
+The site icon is [quantum computer by lastspark from the Noun Project](https://thenounproject.com/term/quantum-computer/1697151/).
