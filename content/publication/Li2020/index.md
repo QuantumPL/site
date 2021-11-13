@@ -11,7 +11,11 @@ authors:
 - Yufei Ding
 - Mingsheng Ying
 - Yuan Xie
-tags: []
+tags:
+- assertion
+- quantum computing
+- program testing
+- quantum programming
 categories: []
 date: '2020-11-01'
 lastmod: 2021-08-16T11:44:17-05:00
@@ -54,3 +58,4 @@ abstract: In this paper, we propose Proq, a runtime assertion scheme for testing
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3428218
 ---
+OOPSLA '20

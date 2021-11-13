@@ -6,7 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Dominique Unruh
-tags: []
+tags:
+- formal verification
+- Quantum cryptography
+- Hoare logics
 categories: []
 date: '2019-01-01'
 lastmod: 2021-08-16T11:44:22-05:00
@@ -44,3 +47,4 @@ abstract: We present a logic for reasoning about pairs of interactive quantum pr
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3290346
 ---
+POPL '19

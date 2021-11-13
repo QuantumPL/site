@@ -5,7 +5,7 @@ title: Quantum Weakest Preconditions
 subtitle: ''
 summary: ''
 authors:
-- Ellie D'hondt
+- Ellie D'Hondt
 - Prakash Panangaden
 tags: []
 categories: []
