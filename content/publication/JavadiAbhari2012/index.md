@@ -10,7 +10,7 @@ authors:
 - Mohammad Javad Dousti
 - Lukas Svec
 - Oana Catu
-- Amlan Chakrabati
+- Amlan Chakrabarti
 - Chen-Fu Chiang
 - Seth Vanderwilt
 - John Black
