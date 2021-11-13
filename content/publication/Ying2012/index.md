@@ -6,7 +6,12 @@ subtitle: ''
 summary: ''
 authors:
 - Mingsheng Ying
-tags: []
+tags:
+- quantum computation
+- programming language
+- axiomatic semantics
+- floyd--hoare logic
+- completeness
 categories: []
 date: '2012-01-01'
 lastmod: 2021-08-16T11:44:23-05:00

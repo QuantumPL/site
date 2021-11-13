@@ -10,9 +10,9 @@ authors:
 - John A. Smolin
 - Jay M. Gambetta
 tags:
-- QASM
-- Quantum Assembly Language
-- OpenQASM
+- qasm
+- quantum assembly language
+- openqasm
 - quantum computing
 - quantum information
 categories: []

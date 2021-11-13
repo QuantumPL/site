@@ -10,8 +10,8 @@ authors:
 - Yangjia Li
 - Yuan Feng
 tags:
-- Quantum programming
-- quantum Hoare logic
+- quantum programming
+- quantum hoare logic
 - parallel programs
 - entanglement
 categories: []

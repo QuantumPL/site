@@ -9,14 +9,14 @@ authors:
 - Hanna Lachnitt
 - Yijun He
 tags:
-- Isabelle/HOL
-- Certification
-- Quantum computing
-- No-cloning
-- Quantum teleportation
-- Deutsch's algorithm
-- Deutsch--Jozsa algorithm
-- Quantum prisoner's dilemma
+- isabelle/hol
+- certification
+- quantum computing
+- no-cloning
+- quantum teleportation
+- deutsch's algorithm
+- deutsch--jozsa algorithm
+- quantum prisoner's dilemma
 categories: []
 date: '2021-06-01'
 lastmod: 2021-09-17T16:01:04-05:00

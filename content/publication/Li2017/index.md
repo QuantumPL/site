@@ -8,8 +8,8 @@ authors:
 - Yangjia Li
 - Mingsheng Ying
 tags:
-- SDP (Semi-Definite Programming)
-- quantum Bernoulli factory
+- sdp (semi-definite programming)
+- quantum bernoulli factory
 - quantum programming
 - quantum random walk
 - ranking function

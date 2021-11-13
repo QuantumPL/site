@@ -17,15 +17,15 @@ abstract: As quantum computers become real, it is high time we come up with effe
 featured: false
 publication: ''
 tags:
-- Formal Verification
-- Program Proof
-- Programming Languages
-- Quantum Computing
-- Quantum Computation
-- Type Systems
-- Type Theory
-- Pre- and Postconditions
-- Program Specifications
+- formal verification
+- program proof
+- programming languages
+- quantum computing
+- quantum computation
+- type systems
+- type theory
+- pre- and postconditions
+- program specifications
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2012.02154

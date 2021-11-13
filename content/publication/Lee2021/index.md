@@ -10,9 +10,9 @@ authors:
 - Benoît Valiron
 - Zhaowei Xu
 tags:
-- Categorical semantics
-- Operational semantics
-- Quantum circuit description language
+- categorical semantics
+- operational semantics
+- quantum circuit description language
 categories: []
 date: '2021-10-01'
 lastmod: 2021-10-07T13:18:13-05:00

@@ -8,7 +8,11 @@ authors:
 - Jennifer Paykin
 - Robert Rand
 - Steve Zdancewic
-tags: []
+tags:
+- linear types
+- denotational semantics
+- quantum circuits
+- quantum programming languages
 categories: []
 date: '2017-01-01'
 lastmod: 2021-09-06T11:48:27-05:00

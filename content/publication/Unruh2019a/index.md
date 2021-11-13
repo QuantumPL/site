@@ -6,7 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Dominique Unruh
-tags: []
+tags:
+- quantum entanglement
+- quantum computing
+- probabilistic logic
+- computers
+- cryptography
+- semantics
 categories: []
 date: '2019-06-01'
 lastmod: 2021-09-06T11:48:31-05:00

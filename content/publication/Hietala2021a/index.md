@@ -11,9 +11,9 @@ authors:
 - Liyi Li
 - Michael Hicks
 tags:
-- Formal Verification
-- Quantum Computing
-- Proof Engineering
+- formal verification
+- quantum computing
+- proof engineering
 categories: []
 date: '2021-06-01'
 lastmod: 2021-08-16T11:44:17-05:00

@@ -9,13 +9,13 @@ authors:
 - Robert Rand
 - Michael Hicks
 tags:
-- Formal Verification
-- NISQ
-- Program Proof
-- Programming Languages
-- Semantic Preservation
-- OpenQASM
-- QASM
+- formal verification
+- nisq
+- program proof
+- programming languages
+- semantic preservation
+- openqasm
+- qasm
 - quantum computing
 categories: []
 date: '2020-01-01'

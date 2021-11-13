@@ -9,11 +9,11 @@ authors:
 - Shenggang Ying
 - Xiaodi Wu
 tags:
-- Inductive assertions
-- Quantum programming
-- Partial correctness
-- Invariant generation
-- Program invariants
+- inductive assertions
+- quantum programming
+- partial correctness
+- invariant generation
+- program invariants
 categories: []
 date: '2017-01-01'
 lastmod: 2021-09-06T11:48:33-05:00

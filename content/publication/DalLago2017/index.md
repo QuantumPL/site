@@ -11,7 +11,7 @@ authors:
 - Akira Yoshimizu
 tags:
 - memory structure
-- Geometry of Interaction
+- geometry of interaction
 - quantum computation
 - lambda calculus
 - probabilistic computation

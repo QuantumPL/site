@@ -10,7 +10,8 @@ authors:
 - Peter Selinger
 - D. Scott Alexander
 - Jonathan M. Smith
-tags: []
+tags:
+- quipper
 categories: []
 date: '2015-07-01'
 lastmod: 2021-08-16T11:44:22-05:00

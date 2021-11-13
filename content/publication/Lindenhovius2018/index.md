@@ -9,7 +9,12 @@ authors:
 - Bert Lindenhovius
 - Michael Mislove
 - Vladimir Zamdzhiev
-tags: []
+tags:
+- categorical semantics
+- string diagrams
+- enriched category theory
+- programming languages
+- quantum computing
 categories: []
 date: '2018-07-01'
 lastmod: 2021-09-06T11:48:25-05:00

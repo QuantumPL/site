@@ -16,7 +16,10 @@ authors:
 - Mariia Mykhailova
 - Andres Paz
 - Martin Roetteler
-tags: []
+tags:
+- domain specific language
+- functional programming
+- quantum computing
 categories: []
 date: '2018-02-01'
 lastmod: 2021-08-16T11:44:22-05:00

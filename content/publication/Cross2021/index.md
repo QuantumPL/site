@@ -16,9 +16,9 @@ authors:
 - Jay M. Gambetta
 - Blake R. Johnson
 tags:
-- QASM
-- Quantum Assembly Language
-- OpenQASM
+- qasm
+- quantum assembly language
+- openqasm
 - quantum computing
 - quantum information
 categories: []

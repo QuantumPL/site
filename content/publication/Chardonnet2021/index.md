@@ -9,10 +9,10 @@ authors:
 - Benoît Valiron
 - Renaud Vilmart
 tags:
-- Quantum Computation
-- Linear Logic
-- ZX-Calculus
-- Geometry of Interaction
+- quantum computation
+- linear logic
+- zx-calculus
+- geometry of interaction
 categories: []
 date: '2021-08-01'
 lastmod: 2021-09-29T08:01:05-05:00

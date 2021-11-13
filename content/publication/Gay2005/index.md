@@ -7,7 +7,13 @@ summary: ''
 authors:
 - Simon J. Gay
 - Rajagopal Nagarajan
-tags: []
+tags:
+- quantum computing
+- semantics
+- verification
+- types
+- quantum communication
+- formal language
 categories: []
 date: '2005-01-01'
 lastmod: 2021-09-06T11:48:22-05:00

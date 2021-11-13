@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Matthew Amy
 tags:
-- Quantum computing
-- Quantum circuits
-- Compiler optimization
-- Formal verification
+- quantum computing
+- quantum circuits
+- compiler optimization
+- formal verification
 categories: [PhD Thesis]
 date: '2019-02-01'
 lastmod: 2021-09-05T09:05:16-05:00

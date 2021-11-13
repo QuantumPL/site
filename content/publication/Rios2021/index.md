@@ -7,12 +7,12 @@ summary: ''
 authors:
 - Francisco Rios
 tags:
-- Quantum programming language
-- Categorical model
-- Quantum circuit
-- Proto-Quipper-M
-- Category theory
-- Quantum computing
+- quantum programming language
+- categorical model
+- quantum circuit
+- proto-quipper-m
+- category theory
+- quantum computing
 categories: [PhD Thesis]
 date: '2021-08-01'
 lastmod: 2021-09-04T17:57:53-05:00

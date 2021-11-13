@@ -11,9 +11,9 @@ authors:
 - Peter Selinger
 - Benoît Valiron
 tags:
-- Quantum Computation
-- Programming Languages
-- Quipper
+- quantum computation
+- programming languages
+- quipper
 categories: []
 date: '2013-07-01'
 lastmod: 2021-08-16T11:44:16-05:00

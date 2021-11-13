@@ -10,9 +10,9 @@ authors:
 - Kartik Singhal
 - Brad Lackey
 tags:
-- Quantum Computing
-- Type Systems
-- Gottesman Types
+- quantum computing
+- type systems
+- gottesman types
 categories: []
 date: '2020-06-01'
 lastmod: 2021-08-16T11:44:20-05:00

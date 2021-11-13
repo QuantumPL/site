@@ -8,7 +8,13 @@ authors:
 - Vincent Danos
 - Elham Kashefi
 - Prakash Panangaden
-tags: []
+tags:
+- normalization
+- measurement-based quantum computing
+- quantum programming languages
+- models for quantum computing
+- term rewriting
+- teleportation-based quantum computing
 categories: []
 date: '2007-04-01'
 lastmod: 2021-08-16T11:44:14-05:00

@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Peter Selinger
 tags:
-- Quantum Computation
-- Quantum Algorithm
-- Linear Logic
-- Denotational Semantics
-- Lambda Calculus
+- quantum computation
+- quantum algorithm
+- linear logic
+- denotational semantics
+- lambda calculus
 categories: [Survey]
 date: '2004-04-01'
 lastmod: 2021-08-16T11:44:21-05:00

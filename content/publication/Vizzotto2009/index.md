@@ -9,11 +9,11 @@ authors:
 - Giovani Rubert Librelotto
 - Amr Sabry
 tags:
-- Density Matrix
-- Quantum Computation
-- Quantum Algorithm
-- Quantum Circuit
-- Quantum Operation
+- density matrix
+- quantum computation
+- quantum algorithm
+- quantum circuit
+- quantum operation
 categories: []
 date: '2009-11-01'
 lastmod: 2021-09-30T13:07:52-05:00

@@ -11,11 +11,11 @@ authors:
 - Xiaodi Wu
 - Michael Hicks
 tags:
-- Programming Languages
-- Formal Verification
-- Certified Compilation
-- Quantum Computing
-- Circuit Optimization
+- programming languages
+- formal verification
+- certified compilation
+- quantum computing
+- circuit optimization
 categories: []
 date: '2021-01-01'
 lastmod: 2021-08-16T11:44:16-05:00

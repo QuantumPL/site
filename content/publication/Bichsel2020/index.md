@@ -10,7 +10,10 @@ authors:
 - Maximilian Baader
 - Timon Gehr
 - Martin Vechev
-tags: []
+tags:
+- quantum language
+- semantics
+- uncomputation
 categories: []
 date: '2020-06-01'
 lastmod: 2021-09-06T11:48:20-05:00

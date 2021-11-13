@@ -11,9 +11,9 @@ authors:
 - Michael Mislove
 - Vladimir Zamdzhiev
 tags:
-- Quantum Programming
-- Probabilistic Programming
-- Semantics
+- quantum programming
+- probabilistic programming
+- semantics
 categories: []
 date: '2021-07-01'
 lastmod: 2021-10-03T09:45:31-05:00

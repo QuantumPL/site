@@ -11,16 +11,16 @@ authors:
 - Kesha Hietala
 - Robert Rand
 tags:
-- Quantum Computing
-- Quantum Computation
-- Programming Languages
-- Formal Specification
-- Formal language definitions
-- Type Systems
-- Semantics and reasoning
-- Quantum Programming Languages
-- Language Design
-- Q#
+- quantum computing
+- quantum computation
+- programming languages
+- formal specification
+- formal language definitions
+- type systems
+- semantics and reasoning
+- quantum programming languages
+- language design
+- q#
 categories: []
 date: '2021-06-01'
 lastmod: 2021-09-30T13:46:36-05:00

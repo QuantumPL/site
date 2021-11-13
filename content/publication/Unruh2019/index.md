@@ -8,8 +8,8 @@ authors:
 - Dominique Unruh
 tags:
 - formal verification
-- Quantum cryptography
-- Hoare logics
+- quantum cryptography
+- hoare logics
 categories: []
 date: '2019-01-01'
 lastmod: 2021-08-16T11:44:22-05:00

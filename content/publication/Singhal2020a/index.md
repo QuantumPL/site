@@ -20,14 +20,14 @@ featured: false
 publication: '*Proceedings of the 17th International Conference on Quantum Physics
   and Logic (QPL), Paris, France, June 2--6, 2020*'
 tags:
-- Formal Verification
-- Program Proof
-- Programming Languages
-- Quantum Computing
-- Type Systems
-- Type Theory
-- Pre- and Postconditions
-- Program Specifications
+- formal verification
+- program proof
+- programming languages
+- quantum computing
+- type systems
+- type theory
+- pre- and postconditions
+- program specifications
 doi: 10.4204/EPTCS.340.15
 links:
 - name: URL

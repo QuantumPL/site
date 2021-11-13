@@ -8,7 +8,12 @@ authors:
 - Li Zhou
 - Nengkun Yu
 - Mingsheng Ying
-tags: []
+tags:
+- quantum computation
+- hoare logic
+- robustness
+- projections
+- programming languages
 categories: []
 date: '2019-06-01'
 lastmod: 2021-09-06T11:48:33-05:00

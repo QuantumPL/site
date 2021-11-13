@@ -8,9 +8,9 @@ authors:
 - Mathys Rennela
 - Sam Staton
 tags:
-- Programming Languages
-- Category Theory
-- Operator Algebras
+- programming languages
+- category theory
+- operator algebras
 categories: []
 date: '2020-03-01'
 lastmod: 2021-09-30T13:07:49-05:00

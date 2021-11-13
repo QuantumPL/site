@@ -7,8 +7,8 @@ summary: ''
 authors:
 - John van de Wetering
 tags:
-- ZX-calculus
-- Category Theory
+- zx-calculus
+- category theory
 categories: [Survey]
 date: '2020-12-01'
 lastmod: 2021-10-14T08:19:59-05:00

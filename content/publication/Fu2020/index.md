@@ -8,7 +8,11 @@ authors:
 - Peng Fu
 - Kohei Kishida
 - Peter Selinger
-tags: []
+tags:
+- fibration
+- categorical model
+- quantum programming languages
+- linear dependent types
 categories: []
 date: '2020-07-01'
 lastmod: 2021-09-06T11:48:22-05:00

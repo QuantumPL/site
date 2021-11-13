@@ -8,12 +8,12 @@ authors:
 - Ichiro Hasuo
 - Naohiko Hoshino
 tags:
-- Higher-order computation
-- Quantum computation
-- Programming languages
-- Geometry of interaction
-- Denotational semantics
-- Categorical semantics
+- higher-order computation
+- quantum computation
+- programming languages
+- geometry of interaction
+- denotational semantics
+- categorical semantics
 categories: []
 date: '2017-02-01'
 lastmod: 2021-10-27T11:21:58-05:00
