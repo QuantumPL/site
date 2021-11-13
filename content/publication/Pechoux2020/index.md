@@ -9,7 +9,10 @@ authors:
 - Simon Perdrix
 - Mathys Rennela
 - Vladimir Zamdzhiev
-tags: []
+tags:
+- quantum programming
+- inductive types
+- adequacy
 categories: []
 date: '2020-04-01'
 lastmod: 2021-08-16T11:44:19-05:00

@@ -7,7 +7,9 @@ summary: ''
 authors:
 - Matthew Amy
 tags:
-- quantum computing
+- quantum programming
+- circuit description languages
+- metaprogramming
 - openqasm
 - qasm
 categories: []

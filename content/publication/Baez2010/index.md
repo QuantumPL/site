@@ -7,7 +7,10 @@ summary: ''
 authors:
 - John C. Baez
 - Mike Stay
-tags: []
+tags:
+- monoidal category
+- intuitionistic logic
+- lambda calculus
 categories: []
 date: '2010-07-01'
 lastmod: 2021-08-16T11:44:13-05:00

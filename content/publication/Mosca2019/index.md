@@ -8,7 +8,12 @@ authors:
 - Michele Mosca
 - Martin Roetteler
 - Peter Selinger
-tags: []
+tags:
+- compilers
+- functional programming
+- quantum computing
+- reversible computing
+- verification
 categories: []
 date: '2019-03-01'
 lastmod: 2021-08-16T11:44:18-05:00

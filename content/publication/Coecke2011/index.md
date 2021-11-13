@@ -7,7 +7,8 @@ summary: ''
 authors:
 - Bob Coecke
 - Ross Duncan
-tags: []
+tags:
+- zx-calculus
 categories: []
 date: '2011-04-01'
 lastmod: 2021-08-16T11:44:14-05:00

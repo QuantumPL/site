@@ -7,7 +7,10 @@ summary: ''
 authors:
 - Luca Paolini
 - Margherita Zorzi
-tags: []
+tags:
+- quantum circuit
+- classical control
+- quantum programming language
 categories: []
 date: '2017-04-01'
 lastmod: 2021-08-16T11:44:19-05:00

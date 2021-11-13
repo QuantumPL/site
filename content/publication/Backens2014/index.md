@@ -7,12 +7,7 @@ summary: ''
 authors:
 - Miriam Backens
 tags:
-- quantum foundations
-- quantum computing
-- logic
-- graphical calculus
-- stabilizer quantum mechanics
-- graph states
+- zx-calculus
 categories: []
 date: '2014-09-01'
 lastmod: 2021-09-17T15:30:23-05:00

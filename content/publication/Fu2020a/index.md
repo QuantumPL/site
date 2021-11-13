@@ -10,7 +10,10 @@ authors:
 - Kohei Kishida
 - Neil J. Ross
 - Peter Selinger
-tags: []
+tags:
+- quantum programming languages
+- linear dependent types
+- proto-quipper-d
 categories: []
 date: '2020-07-01'
 lastmod: 2021-08-16T11:44:15-05:00

@@ -44,4 +44,7 @@ abstract: 'One perspective on quantum algorithms is that they are classical algo
 publication: '*Foundations of Software Science and Computation Structures, FoSSaCS
   2018*'
 doi: 10.1007/978-3-319-89366-2_19
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1804.00952
 ---

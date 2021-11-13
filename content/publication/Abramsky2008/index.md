@@ -7,7 +7,17 @@ summary: ''
 authors:
 - Samson Abramsky
 - Bob Coecke
-tags: []
+tags:
+- protocols
+- teleportation
+- performance evaluation
+- quantum computing
+- quantum entanglement
+- quantum mechanics
+- laboratories
+- communication channels
+- force measurement
+- measurement standards
 categories: []
 date: '2008-11-01'
 lastmod: 2021-09-17T15:23:44-05:00
