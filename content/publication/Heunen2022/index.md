@@ -5,12 +5,20 @@ title: Quantum Information Effects
 subtitle: ''
 summary: ''
 authors:
-- Robin Kaarsgaard
 - Chris Heunen
-tags: []
+- Robin Kaarsgaard
+tags:
+- quantum computation
+- reversible computation
+- information effects
+- measurement
+- effects
+- arrows
+- categorical semantics
 categories: []
-date: '2021-07-01'
-lastmod: 2021-10-03T09:45:31-05:00
+date: '2022-01-01'
+lastmod: 2021-11-14T10:18:19-06:00
+publishDate: 2021-11-14T10:18:19-06:00
 featured: false
 draft: false
 
@@ -29,7 +37,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '0'
+- '2'
 abstract: 'We study the two dual quantum information effects to manipulate the amount
   of information in quantum computation: hiding and allocation. The resulting type-and-effect
   system is fully expressive for irreversible quantum computing, including measurement.
@@ -42,9 +50,10 @@ abstract: 'We study the two dual quantum information effects to manipulate the a
   finite sets into the category of functions with chosen garbage. Thus they capture
   the fundamental theorems of classical and quantum reversible computing of Toffoli
   and Stinespring.'
-publication: ''
+publication: '*Proceedings of the ACM on Programming Languages*'
+doi: 10.1145/3498663
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2107.12144
 ---
-To appear at POPL 2022
+POPL '22
