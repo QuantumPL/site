@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Proof System for Disjoint Parallel Quantum Programs
+title: A proof system for disjoint parallel quantum programs
 subtitle: ''
 summary: ''
 authors:
@@ -44,4 +44,4 @@ abstract: In this paper, we define the operational and denotational semantics of
 publication: '*Theoretical Computer Science*'
 doi: 10.1016/j.tcs.2021.10.025
 ---
-In press. Essentially the first part of [[Ying2018](../Ying2018)]
+Essentially the first part of [[Ying2018](../Ying2018)]
