@@ -49,7 +49,7 @@ abstract: Quantum computing exploits quantum phenomena such as superposition and
   materials science, cryptography, and machine learning. The dominant approach to
   programming quantum computers is to provide an existing high-level language with
   libraries that allow for the expression of quantum programs. This approach can permit
-  computations that are meaningless in a quantum context; prohibits succint expression
+  computations that are meaningless in a quantum context; prohibits succinct expression
   of interaction between classical and quantum logic; and does not provide important
   constructs that are required for quantum programming. We present Q#, a quantum-focused
   domain-specific language explicitly designed to correctly, clearly and completely
