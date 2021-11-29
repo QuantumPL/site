@@ -36,7 +36,7 @@ projects: []
 publication_types:
 - '1'
 abstract: Quantum Hoare logic allows us to reason about quantum programs. We present
-  an extension of quantum Hoare logic that introduces \"ghost variables\" to extend
+  an extension of quantum Hoare logic that introduces "ghost variables" to extend
   the expressive power of pre-/postconditions. Ghost variables are variables that
   do not actually occur in the program and are allowed to have arbitrary quantum states
   (in a sense, they are existentially quantified), and be entangled with program variables.

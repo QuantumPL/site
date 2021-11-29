@@ -50,4 +50,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1402.4467
 ---
-Pronounced \"Liquid\"
+Pronounced "Liquid"

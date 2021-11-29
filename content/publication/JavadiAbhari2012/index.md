@@ -66,7 +66,7 @@ abstract: 'Quantum computing is of significant research interest because of its 
   routines) which will be defined using different coding techniques. As a quantum
   programming language (QPL), Scaffold was formulated to make it easy to express an
   algorithm with so many disparate components in a clean and efficient manner. It
-  is from this notion of \"putting things together\" that Scaffold derives its name.'
+  is from this notion of "putting things together" that Scaffold derives its name.'
 publication: ''
 links:
 - name: URL

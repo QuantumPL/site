@@ -31,12 +31,12 @@ publishDate: '2021-08-16T16:44:20.005861Z'
 publication_types:
 - '4'
 abstract: 'We survey the landscape of Hoare logics for quantum programs. We review
-  three papers: \"Reasoning about imperative quantum programs\" by Chadha, Mateus
-  and Sernadas; \"A logic for formal verification of quantum programs\" by Yoshihiko
-  Kakutani; and \"Floyd-hoare logic for quantum programs\" by Mingsheng Ying. We compare
-  the mathematical foundations of the logics, their underlying languages, and the
-  expressivity of their assertions. We also use the languages to verify the Deutsch--Jozsa
-  Algorithm, and discuss their relative usability in practice.'
+  three papers: "Reasoning about imperative quantum programs" by Chadha, Mateus and
+  Sernadas; "A logic for formal verification of quantum programs" by Yoshihiko Kakutani;
+  and "Floyd-hoare logic for quantum programs" by Mingsheng Ying. We compare the mathematical
+  foundations of the logics, their underlying languages, and the expressivity of their
+  assertions. We also use the languages to verify the Deutsch--Jozsa Algorithm, and
+  discuss their relative usability in practice.'
 publication: ''
 links:
 - name: arXiv

@@ -42,7 +42,7 @@ abstract: 'Measurement-based quantum computation (MBQC) has emerged as a new app
   and one-qubit unitaries, which may be dependent on the outcomes of measurements,
   to guide the computation. The main point is that one never has to perform unitaries
   on more than one qubit at a time after the initial preparation of an entangled state.
-  The \"programs\" that one writes in this model are traditionally called \"patterns\".
+  The "programs" that one writes in this model are traditionally called "patterns".
   In this chapter, we develop a rigorous mathematical model underlying measurement-based
   quantum computation. We give syntax, operational semantics, denotational semantics,
   and an algebra of programs derived from the denotational semantics. We also present

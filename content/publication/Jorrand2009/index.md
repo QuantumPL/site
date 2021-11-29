@@ -34,7 +34,7 @@ abstract: 'In this chapter, we present applications of abstract interpretation t
   in quantum computing. Quantum computing is a now well-established domain of computer
   science, and the recent developments of semantic techniques show the vitality of
   this rapidly growing area. On the other hand, the proof has been made that abstract
-  interpretation is a powerful theory (of \"classical\" computer science) for comparing
+  interpretation is a powerful theory (of "classical" computer science) for comparing
   more or less precise semantics of the same programming language. In a more general
   picture, abstract interpretation can be seen as a framework for comparing the precision
   of several representations of the same dynamic system evolution. In this paper,

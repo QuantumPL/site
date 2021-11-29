@@ -50,4 +50,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2109.06493
 ---
-To appear as Chapter \"Formal methods for Quantum Algorithms\" in \"Handbook of Formal Analysis and Verification in Cryptography\", CRC
+To appear as Chapter "Formal methods for Quantum Algorithms" in "Handbook of Formal Analysis and Verification in Cryptography", CRC

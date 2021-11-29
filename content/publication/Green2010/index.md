@@ -44,9 +44,8 @@ abstract: This thesis looks at the development of a framework for a functional q
   language. The two implementations are not in themselves fully developed quantum
   programming languages, as they are embedded in their respective parent languages,
   but are a major step towards the development of a full formally verified, functional
-  quantum programming language. Dubbed the \"Quantum IO Monad\", this framework is
-  designed following a structural approach as given by a categorical model of quantum
-  computation.
+  quantum programming language. Dubbed the "Quantum IO Monad", this framework is designed
+  following a structural approach as given by a categorical model of quantum computation.
 publication: ''
 links:
 - name: URL
