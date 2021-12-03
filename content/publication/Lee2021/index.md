@@ -14,7 +14,7 @@ tags:
 - operational semantics
 - quantum circuit description language
 categories: []
-date: '2021-10-01'
+date: '2021-11-01'
 lastmod: 2021-10-07T13:18:13-05:00
 featured: false
 draft: false
@@ -47,7 +47,7 @@ abstract: In this paper, we introduce dynamic lifting to a quantum circuit-descr
   a soundness result for this semantics.
 publication: '*41st IARCS Annual Conference on Foundations of Software Technology
   and Theoretical Computer Science (FSTTCS 2021)*'
-doi: 10.4230/LIPIcs.FSTTCS.2021.13
+doi: 10.4230/LIPIcs.FSTTCS.2021.51
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2110.02691
