@@ -8,9 +8,9 @@
   {{ with .Content }}
   <div class="article-style">{{ . }}</div>
   {{ end }}
-  
+
   Sorted alphabetically:
-  
+
   <ul>
     {{range $k, $v := sort .Data.Pages "Title" }}
       {{ if not (eq $v.Title "Kartik") }}

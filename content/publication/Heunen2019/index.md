@@ -9,6 +9,7 @@ authors:
 - Jamie Vicary
 tags:
 - category
+- category theory
 - quantum theory
 - graphical calculus
 - quantum teleportation

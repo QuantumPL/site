@@ -1,0 +1,38 @@
+{{- define "main" -}}
+
+{{/* List of all tags with publication counts. HT: https://code.luasoftware.com/tutorials/hugo/hugo-list-tags-sort-by-count/ */}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  <p>Note some publications do not have tags/keywords associated with them. <a href="https://github.com/QuantumPL/bib/blob/main/CONTRIBUTING.md">You can suggest improvements</a>.</p>
+
+  <p>Sorted by count:</p>
+
+  <ul>
+    {{ range $.Site.Taxonomies.tags.ByCount }}
+    {{ if gt .Count 0 }}
+      <li>
+        <a href="../tag/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
+      </li>
+    {{ end }}
+    {{end}}
+  </ul>
+
+  <p>Sorted alphabetically:</p>
+
+  <ul>
+    {{ range $.Site.Taxonomies.tags.Alphabetical }}
+      <li>
+        <a href="../tag/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
+      </li>
+    {{end}}
+  </ul>
+
+</div>
+
+{{- end -}}

@@ -7,7 +7,10 @@ summary: ''
 authors:
 - Mathieu Huot
 - Sam Staton
-tags: []
+tags:
+- category theory
+- quantum theory
+- monoidal category
 categories: []
 date: '2019-01-01'
 lastmod: 2021-12-13T08:25:15-06:00
