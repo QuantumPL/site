@@ -14,8 +14,8 @@ tags:
 - type systems
 - gottesman types
 categories: []
-date: '2020-06-01'
-lastmod: 2021-08-16T11:44:20-05:00
+date: '2021-09-01'
+lastmod: 2021-12-13T08:25:18-06:00
 featured: false
 draft: false
 
@@ -33,7 +33,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:20.671364Z'
 publication_types:
 - '1'
 abstract: The Heisenberg representation of quantum operators provides a powerful technique
@@ -46,8 +45,8 @@ abstract: The Heisenberg representation of quantum operators provides a powerful
   apply these types to reason about separable states and the superdense coding algorithm.
 publication: '*Proceedings of the 17th International Conference on Quantum Physics
   and Logic (QPL), Paris, France, June 2--6, 2020*'
+doi: 10.4204/EPTCS.340.14
 links:
 - name: URL
   url: https://rand.cs.uchicago.edu/publication/rand-2020-gottesman/
-doi: 10.4204/EPTCS.340.14
 ---
