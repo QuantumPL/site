@@ -48,7 +48,4 @@ abstract: In this paper, we introduce dynamic lifting to a quantum circuit-descr
 publication: '*41st IARCS Annual Conference on Foundations of Software Technology
   and Theoretical Computer Science (FSTTCS 2021)*'
 doi: 10.4230/LIPIcs.FSTTCS.2021.51
-links:
-- name: arXiv
-  url: https://arxiv.org/abs/2110.02691
 ---
