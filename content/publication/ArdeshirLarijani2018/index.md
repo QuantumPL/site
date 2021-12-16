@@ -12,7 +12,7 @@ tags:
 - concurrency
 - process calculi
 - equivalence checking
-- Quantum information processing
+- quantum information processing
 - programming language semantics
 categories: []
 date: '2018-11-01'

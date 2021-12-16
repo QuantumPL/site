@@ -12,7 +12,7 @@ tags:
 - density matrix
 - quantum computation
 - quantum algorithm
-- quantum circuit
+- quantum circuits
 - quantum operation
 categories: []
 date: '2009-11-01'

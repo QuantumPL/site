@@ -8,9 +8,9 @@ authors:
 - Luca Paolini
 - Margherita Zorzi
 tags:
-- quantum circuit
+- quantum circuits
 - classical control
-- quantum programming language
+- quantum programming languages
 categories: []
 date: '2017-04-01'
 lastmod: 2021-08-16T11:44:19-05:00

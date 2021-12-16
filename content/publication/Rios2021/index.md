@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Francisco Rios
 tags:
-- quantum programming language
+- quantum programming languages
 - categorical model
-- quantum circuit
+- quantum circuits
 - proto-quipper-m
 - category theory
 - quantum computing

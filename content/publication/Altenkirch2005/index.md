@@ -8,16 +8,13 @@ authors:
 - Thorsten Altenkirch
 - Jonathan Grattage
 tags:
-- computer languages
 - quantum computing
 - quantum entanglement
-- circuits
-- parallel processing
-- computer science
-- logic programming
-- parallel programming
 - functional programming
-- program processors
+- quantum gates
+- formal logic
+- quantum entanglement
+- functional languages
 categories: []
 date: '2005-06-01'
 lastmod: 2021-09-06T11:48:19-05:00

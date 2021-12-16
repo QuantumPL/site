@@ -8,10 +8,11 @@ authors:
 - Mingsheng Ying
 tags:
 - quantum computation
-- programming language
+- programming languages
 - axiomatic semantics
 - floyd--hoare logic
 - completeness
+- hoare logic
 categories: []
 date: '2012-01-01'
 lastmod: 2021-08-16T11:44:23-05:00

@@ -8,8 +8,6 @@ authors:
 - Alexander S. Green
 tags:
 - quantum programming
-- computer programming
-- computer languages
 - haskell
 - monadic structure
 - quantum io monad
