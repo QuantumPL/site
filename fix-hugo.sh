@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm -rf $TMPDIR/hugo_cache/
+sudo rm -rf "$TMPDIR"/hugo_cache/
