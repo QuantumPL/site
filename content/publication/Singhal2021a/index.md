@@ -16,6 +16,7 @@ tags:
 - type theory
 - pre- and postconditions
 - program specifications
+- hoare logic
 categories: []
 date: '2021-09-01'
 lastmod: 2021-12-13T08:25:19-06:00

@@ -13,7 +13,8 @@ authors:
 - Yangjia Li
 - Mingsheng Ying
 - Naijun Zhan
-tags: []
+tags:
+- hoare logic
 categories: []
 date: '2019-03-01'
 lastmod: 2021-08-16T11:44:18-05:00

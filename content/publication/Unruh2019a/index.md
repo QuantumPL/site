@@ -13,6 +13,7 @@ tags:
 - computers
 - cryptography
 - semantics
+- hoare logic
 categories: []
 date: '2019-06-01'
 lastmod: 2021-09-06T11:48:31-05:00
