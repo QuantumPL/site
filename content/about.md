@@ -39,7 +39,7 @@ This project was started by Kartik, a PhD student in Quantum PL, while attending
 Other resources:
 - [A rendering](../retro/bbt.html) of this bib database using `bibtex2html` (linked in navigation menu as [Retro](../retro/bbt.html)).
 - [A rendering](../base) using [BibBase](https://bibbase.org/) (_NOTE: Some entries seem to be missing in this render._).
-- An [external bibliography](https://zxcalculus.com/publications.html) of [ZX-calculus](../tag/ZX-Calculus) publications.
+- An [external bibliography](https://zxcalculus.com/publications.html) of [ZX-calculus](../tag/zx-calculus) publications.
 
 We hope you find this community resource useful. If you have any questions or comments, please don't hesitate to contact [Kartik](https://ks.cs.uchicago.edu/).
 
