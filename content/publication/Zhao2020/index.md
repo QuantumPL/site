@@ -31,7 +31,7 @@ publication_types:
 - '0'
 abstract: Quantum software plays a critical role in exploiting the full potential
   of quantum computing systems. As a result, it has been drawing increasing attention
-  recently. This paper defines the term \"quantum software engineering\" and introduces
+  recently. This paper defines the term "quantum software engineering" and introduces
   a quantum software life cycle. The paper also gives a generic view of quantum software
   engineering and discusses the quantum software engineering processes, methods, and
   tools. Based on these, the paper provides a comprehensive survey of the current
