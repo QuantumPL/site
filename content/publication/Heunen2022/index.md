@@ -8,13 +8,13 @@ authors:
 - Chris Heunen
 - Robin Kaarsgaard
 tags:
+- effects
 - quantum computation
 - reversible computation
 - information effects
 - measurement
-- effects
-- arrows
 - categorical semantics
+- arrows
 categories: []
 date: '2022-01-01'
 lastmod: 2021-11-14T10:18:19-06:00
@@ -53,8 +53,6 @@ abstract: 'We study the two dual quantum information effects to manipulate the a
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3498663
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2107.12144
 - name: URL
   url: https://github.com/rkaarsgaard/upi
 ---
