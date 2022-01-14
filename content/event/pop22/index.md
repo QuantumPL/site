@@ -43,7 +43,7 @@ slides:
 projects:
 ---
 
-There are four interesting quantum PL and verification related papers being presented at POPL 2022 next week:
+There are four interesting quantum PL and verification related papers being presented at POPL 2022:
 
 - [Quantum Information Effects](../../publication/Heunen2022) by Robin Kaarsgaard, Chris Heunen
 - [Twist: Sound Reasoning for Purity and Entanglement in Quantum Programs](../../publication/Yuan2022) by Charles Yuan, Christopher McNally, Michael Carbin
