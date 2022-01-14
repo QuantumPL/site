@@ -57,7 +57,7 @@ abstract: We consider a programming language that can manipulate both classical 
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3498687
 links:
-- name: arXiv
+- name: arXiv (extended version)
   url: https://arxiv.org/abs/2107.13347
 ---
 POPL '22
