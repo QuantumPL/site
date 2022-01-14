@@ -55,5 +55,8 @@ abstract: Quantum programming languages enable developers to implement algorithm
   of less than 3.5%.
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3498691
+links:
+- name: Appendix
+  url: appendix.pdf
 ---
-POPL '22. Appendix missing.
+POPL '22. Also see [the associated appendix](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3498691&file=popl22main-p167-p-archive.zip).
