@@ -51,5 +51,8 @@ abstract: "While recent progress in quantum hardware open the door for significa
   \ factoring, quantum phase estimation (QPE) and Grover's search."
 publication: '*Programming Languages and Systems, ESOP 2021*'
 doi: 10.1007/978-3-030-72019-3_6
+links:
+- name: arXiv (extended version)
+  url: https://arxiv.org/abs/2003.05841
 ---
-See extended version [[Chareton2020](../Chareton2020)] for additional technical material.
+See extended version for additional technical material.
