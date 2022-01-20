@@ -14,6 +14,7 @@ tags:
 - verification
 - quantum computing
 - formal semantics
+- separation logic
 categories: []
 date: '2022-01-01'
 lastmod: 2022-01-13T17:38:07-06:00

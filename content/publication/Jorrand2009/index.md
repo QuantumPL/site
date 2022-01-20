@@ -7,7 +7,8 @@ summary: ''
 authors:
 - Philippe Jorrand
 - Simon Perdrix
-tags: []
+tags:
+- abstract interpretation
 categories: []
 date: '2009-11-01'
 lastmod: 2021-10-23T12:18:41-05:00

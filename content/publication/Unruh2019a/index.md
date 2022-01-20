@@ -10,7 +10,6 @@ tags:
 - quantum entanglement
 - quantum computing
 - probabilistic logic
-- computers
 - cryptography
 - semantics
 - hoare logic

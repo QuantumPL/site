@@ -1,23 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Arrow Calculus as a Quantum Programming Language
+title: Reasoning about General Quantum Programs over Mixed States
 subtitle: ''
 summary: ''
 authors:
 - Juliana Kaizer Vizzotto
-- André Rauber Du Bois
+- Giovani Rubert Librelotto
 - Amr Sabry
 tags:
 - density matrix
 - quantum computation
 - quantum algorithm
-- functional programming
-- lambda calculus
-- arrows
+- quantum circuits
+- quantum operation
 categories: []
-date: '2009-06-01'
-lastmod: 2021-09-30T13:07:52-05:00
+date: '2009-11-01'
+lastmod: 2022-01-20T07:04:02-06:00
 featured: false
 draft: false
 
@@ -37,13 +36,12 @@ image:
 projects: []
 publication_types:
 - '1'
-abstract: We express quantum computations (with measurements) using the arrow calculus
-  extended with monadic constructions. This framework expresses quantum programming
-  using well-understood and familiar classical patterns for programming in the presence
-  of computational effects. In addition, the five laws of the arrow calculus provide
-  a convenient framework for equational reasoning about quantum computations that
-  include measurements.
-publication: '*Logic, Language, Information and Computation*'
-doi: 10.1007/978-3-642-02261-6_30
+abstract: In this work we present a functional programming language for quantum computation
+  over mixed states. More interestingly, we develop a set of equations for the resulting
+  programming language, proposing the first framework for equational reasoning about
+  quantum computations over mixed states.
+publication: '*Formal Methods: Foundations and Applications: 12th Brazilian Symposium
+  on Formal Methods, SBMF 2009 Gramado, Brazil, August 19-21, 2009 Revised Selected
+  Papers*'
+doi: 10.1007/978-3-642-10452-7_22
 ---
-WoLLIC '09

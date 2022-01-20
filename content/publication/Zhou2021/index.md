@@ -21,7 +21,7 @@ tags:
 - variational quantum algorithm
 - quantum interpretation
 - bunched logic
-- quantum separation logic
+- separation logic
 categories: []
 date: '2021-07-01'
 lastmod: 2021-09-06T11:48:34-05:00
