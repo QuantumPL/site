@@ -58,5 +58,7 @@ doi: 10.1145/3498691
 links:
 - name: URL
   url: https://github.com/psg-mit/twist-popl22
+- name: Appendix
+  url: appendix.pdf
 ---
 POPL '22. Also see [the associated appendix](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3498691&file=popl22main-p167-p-archive.zip).
