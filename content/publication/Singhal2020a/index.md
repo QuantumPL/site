@@ -17,6 +17,7 @@ tags:
 - pre- and postconditions
 - program specifications
 - hoare logic
+- separation logic
 categories: []
 date: '2020-12-01'
 lastmod: 2021-12-13T08:32:09-06:00
