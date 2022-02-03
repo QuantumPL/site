@@ -44,6 +44,6 @@ abstract: Compilers and computer-aided design tools are essential for fine-grain
   language program into precisely scheduled physical actions.
 publication: '*Computer*'
 doi: 10.1109/MC.2006.4
-url_pdf: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/QC-svore-aho-cross-chuang-markov-computer-magazine-article-a-layered-software-architecture-for-quantum-computing-design-tools-jan06-SVORE.pdf
+url_pdf: https://web.eecs.umich.edu/~imarkov/pubs/jour/computer06-q.pdf
 ---
 See also: [[Svore2004](../Svore2004)]
