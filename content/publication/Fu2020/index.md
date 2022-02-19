@@ -9,11 +9,13 @@ authors:
 - Kohei Kishida
 - Peter Selinger
 tags:
+- proto-quipper-d
 - fibration
 - categorical model
 - quantum programming languages
 - linear dependent types
-categories: []
+- proto-quipper-m
+categories: [Quipper]
 date: '2020-07-01'
 lastmod: 2021-09-06T11:48:22-05:00
 featured: false
@@ -42,11 +44,11 @@ abstract: Modern quantum programming languages integrate quantum resources and c
   of circuits that are indexed by some classical parameters. Quantum programming languages
   thus need linear dependent type theory. This paper defines a general semantic structure
   for such a type theory via certain fibrations of monoidal categories. The categorical
-  model of the quantum circuit description language Proto-Quipper-M in [28] constitutes
-  an example of such a fibration, which means that the language can readily be integrated
-  with dependent types. We then devise both a general linear dependent type system
-  and a dependently typed extension of Proto-Quipper-M, and provide them with operational
-  semantics as well as a prototype implementation.
+  model of the quantum circuit description language Proto-Quipper-M by Rios & Selinger
+  constitutes an example of such a fibration, which means that the language can readily
+  be integrated with dependent types. We then devise both a general linear dependent
+  type system and a dependently typed extension of Proto-Quipper-M, and provide them
+  with operational semantics as well as a prototype implementation.
 publication: '*Proceedings of the 35th Annual ACM/IEEE Symposium on Logic in Computer
   Science*'
 doi: 10.1145/3373718.3394765

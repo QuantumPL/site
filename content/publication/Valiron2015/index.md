@@ -12,7 +12,7 @@ authors:
 - Jonathan M. Smith
 tags:
 - quipper
-categories: []
+categories: [Quipper]
 date: '2015-07-01'
 lastmod: 2021-08-16T11:44:22-05:00
 featured: false

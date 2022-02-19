@@ -7,8 +7,10 @@ summary: ''
 authors:
 - Francisco Rios
 - Peter Selinger
-tags: []
-categories: []
+tags:
+- proto-quipper-m
+- quipper
+categories: [Quipper]
 date: '2018-02-01'
 lastmod: 2021-08-16T11:44:21-05:00
 featured: false

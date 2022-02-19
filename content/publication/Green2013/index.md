@@ -13,7 +13,7 @@ authors:
 tags:
 - quipper
 - quantum programming languages
-categories: []
+categories: [Quipper]
 date: '2013-06-01'
 lastmod: 2021-09-06T11:48:23-05:00
 featured: false

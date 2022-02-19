@@ -14,7 +14,7 @@ tags:
 - quantum computation
 - programming languages
 - quipper
-categories: []
+categories: [Quipper]
 date: '2013-07-01'
 lastmod: 2021-08-16T11:44:16-05:00
 featured: false

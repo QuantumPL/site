@@ -6,8 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Neil J. Ross
-tags: []
-categories: [PhD Thesis]
+tags:
+- proto-quipper
+- quipper
+categories: [PhD Thesis, Quipper]
 date: '2015-08-01'
 lastmod: 2021-08-16T11:44:21-05:00
 featured: false

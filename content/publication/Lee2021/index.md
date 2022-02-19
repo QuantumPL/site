@@ -14,7 +14,9 @@ tags:
 - operational semantics
 - quantum circuit description language
 - proto-quipper-l
-categories: []
+- proto-quipper-m
+- dynamic lifting
+categories: [Quipper]
 date: '2021-11-01'
 lastmod: 2021-10-07T13:18:13-05:00
 featured: false

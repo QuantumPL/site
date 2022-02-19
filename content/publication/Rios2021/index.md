@@ -13,7 +13,8 @@ tags:
 - proto-quipper-m
 - category theory
 - quantum computing
-categories: [PhD Thesis]
+- quipper
+categories: [PhD Thesis, Quipper]
 date: '2021-08-01'
 lastmod: 2021-09-04T17:57:53-05:00
 featured: false
