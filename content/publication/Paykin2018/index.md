@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Linear/non-Linear Types For Embedded Domain-Specific Languages
+title: Linear/Non-Linear Types for Embedded Domain-Specific Languages
 subtitle: ''
 summary: ''
 authors:

@@ -43,4 +43,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1904.04371
 ---
-Talk at QPL '19
+QPL '19
