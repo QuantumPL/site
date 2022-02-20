@@ -43,7 +43,7 @@ abstract: This paper gives an introduction to and overview of the functional qua
   also discussed.
 publication: '*Proceedings of the Joint 5th International Workshop on Quantum Physics
   and Logic and 4th Workshop on Developments in Computational Models (QPL/DCM 2008)*'
-doi: https://doi.org/10.1016/j.entcs.2011.01.015
+doi: 10.1016/j.entcs.2011.01.015
 links:
 - name: arXiv
   url: https://arxiv.org/abs/0806.2735
