@@ -15,7 +15,8 @@ tags:
 - enriched category theory
 - programming languages
 - quantum computing
-categories: []
+- proto-quipper-m
+categories: [Quipper]
 date: '2018-07-01'
 lastmod: 2021-09-06T11:48:25-05:00
 featured: false
