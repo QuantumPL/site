@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-08-16T16:44:18.688268Z'
 publication_types:
-- '0'
+- '2'
 abstract: This report documents the program and the outcomes of Dagstuhl Seminar 18381
   "Quantum Programming Languages", which brought together researchers from quantum
   computing and classical programming languages.
