@@ -5,9 +5,9 @@ title: Toward an Architecture for Quantum Programming
 subtitle: ''
 summary: ''
 authors:
-- S. Bettelli
-- T. Calarco
-- L. Serafini
+- Stefano Bettelli
+- Tommaso Calarco
+- Luciano Serafini
 tags: []
 categories: []
 date: '2003-08-01'

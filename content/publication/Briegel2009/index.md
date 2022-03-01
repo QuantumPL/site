@@ -5,11 +5,11 @@ title: Measurement-Based Quantum Computation
 subtitle: ''
 summary: ''
 authors:
-- H. J. Briegel
-- D. E. Browne
-- W. Dür
-- R. Raussendorf
-- M. Van den Nest
+- Hans J. Briegel
+- Dan E. Browne
+- Wolfgang Dür
+- Robert Raußendorf
+- Maarten Van den Nest
 tags: []
 categories: []
 date: '2009-01-01'
