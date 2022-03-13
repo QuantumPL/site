@@ -6,7 +6,7 @@ title: 'Quingo: A Programming Framework for Heterogeneous Quantum-Classical Comp
 subtitle: ''
 summary: ''
 authors:
-- The Quingo Development Team
+- '{Quingo Development Team}'
 tags:
 - nisq
 - quantum compilation
