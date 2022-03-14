@@ -33,8 +33,8 @@ projects: []
 publication_types:
 - '1'
 abstract: We introduce the monoidal closed category qCPO of quantum cpos, whose objects
-  are \"quantized\" analogs of omega-complete partial orders (cpos). The category
-  qCPO is enriched over the category CPO of cpos, and contains both CPO, and the opposite
+  are "quantized" analogs of omega-complete partial orders (cpos). The category qCPO
+  is enriched over the category CPO of cpos, and contains both CPO, and the opposite
   of the category FdAlg of finite-dimensional von Neumann algebras as monoidal subcategories.
   We use qCPO to construct a sound model for the quantum programming language Proto-Quipper-M
   (PQM) extended with term recursion, as well as a sound and computationally adequate

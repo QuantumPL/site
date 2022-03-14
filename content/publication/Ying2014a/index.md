@@ -42,4 +42,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/1405.4443
 ---
-Talk at Tsinghua Software Day 2014
+Talk at Tsinghua Software Day 2014.

@@ -45,5 +45,7 @@ abstract: ZX-Calculus is a versatile graphical language for quantum computation 
 publication: '*46th International Symposium on Mathematical Foundations of Computer
   Science (MFCS 2021)*'
 doi: 10.4230/LIPIcs.MFCS.2021.30
+links:
+- name: URL (full version)
+  url: https://hal.archives-ouvertes.fr/hal-03154573/
 ---
-Full Version: https://hal.archives-ouvertes.fr/hal-03154573/

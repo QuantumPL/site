@@ -34,7 +34,7 @@ projects: []
 publication_types:
 - '1'
 abstract: We present a variant of the quantum relational Hoare logic from (Unruh,
-  POPL 2019) that allows us to use \"expectations\" in pre- and postconditions. That
+  POPL 2019) that allows us to use "expectations" in pre- and postconditions. That
   is, when reasoning about pairs of programs, our logic allows us to quantitatively
   reason about how much certain pre-/postconditions are satisfied that refer to the
   relationship between the programs inputs/outputs.
