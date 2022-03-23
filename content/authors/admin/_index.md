@@ -11,7 +11,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Chicago
-  url: "http://ks.cs.uchicago.edu"
+  url: "https://ks.cs.uchicago.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Design and Verification of Programming Languages for realistic Quantum Computing.
