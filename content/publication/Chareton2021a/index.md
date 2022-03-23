@@ -37,7 +37,7 @@ publication_types:
 abstract: 'While recent progress in quantum hardware open the door for significant
   speedup in certain key areas (cryptography, biology, chemistry, optimization, machine
   learning, etc), quantum algorithms are still hard to implement right, and the validation
-  of such quantum programs is achallenge. Moreover, importing the testing and debugging
+  of such quantum programs is a challenge. Moreover, importing the testing and debugging
   practices at use in classical programming is extremely difficult in the quantum
   case, due to the destructive aspect of quantum measurement. As an alternative strategy,
   formal methods are prone to play a decisive role in the emerging field of quantum
