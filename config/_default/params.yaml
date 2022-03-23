@@ -13,10 +13,10 @@ font_size: L
 # SEO
 
 site_type: Organization
-local_business_type: ''
-org_name: 'Quantum PL & Verification Bibliography'
+local_business_type: ""
+org_name: "Quantum PL & Verification Bibliography"
 description: Quantum Programming Languages & Verification Bibliography
-twitter: 'Quantum Programming Languages & Verification Bibliography'
+twitter: "Quantum Programming Languages & Verification Bibliography"
 
 # Contact (edit or remove options as required)
 
@@ -56,8 +56,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: "Jan 2, 2006"
+time_format: "3:04 PM"
 address_format: en-us
 
 # Site features
@@ -79,7 +79,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: "This work is licensed under {license}"
 plugins_js: []
 avatar:
   gravatar: false
@@ -92,7 +92,7 @@ projects:
   publication_view: 2
   talk_view: 2
 comments:
-  provider: ''
+  provider: ""
   commentable:
     page: true
     post: true
@@ -101,30 +101,30 @@ comments:
     publication: true
     talk: true
   disqus:
-    shortname: ''
+    shortname: ""
     show_count: true
   commento:
-    url: ''
+    url: ""
 search:
   provider: wowchemy
   wowchemy:
-    min_length: 2   # Only the matches whose length exceeds this value will be returned.
-    threshold: 0.2  # Where 0 requires a perfect match and 1 matches anything.
+    min_length: 2 # Only the matches whose length exceeds this value will be returned.
+    threshold: 0.2 # Where 0 requires a perfect match and 1 matches anything.
   algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
+    app_id: ""
+    api_key: ""
+    index_name: ""
     show_logo: false
 map:
   provider: mapnik
-  api_key: ''
+  api_key: ""
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  google_analytics: ""
+  google_tag_manager: ""
+  google_site_verification: ""
+  baidu_site_verification: ""
+  baidu_tongji: ""
 cms:
   branch: main
   local_backend: false

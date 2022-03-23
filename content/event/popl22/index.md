@@ -54,4 +54,4 @@ There are four interesting quantum PL and verification related papers being pres
 
 All of these papers have been added to bibliography including their appendices and expanded versions for your convenience:
 
-![](screenshot.png)
+![Screenshot of the four POPL papers on this site](screenshot.png)

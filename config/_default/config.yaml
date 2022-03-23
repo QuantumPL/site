@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Quantum PL & Verification Bibliography # Website name
-baseurl: 'https://quantumpl.github.io/bib/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: "https://quantumpl.github.io/bib/" # Website URL
+copyright: "" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -25,7 +25,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
   hugoVersion:
-    min: '0.84.1'
+    min: "0.84.1"
     extended: true
 
 ############################
@@ -40,11 +40,11 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
-disableAliases: true
+  authors: "/author/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
+  publication_types: "/publication-type/:slug/"
+disableAliases: false
 disablePathToLower: true
 outputs:
   home: [HTML, RSS, JSON, headers, redirects]
