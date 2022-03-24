@@ -13,7 +13,7 @@ lastmod: 2021-12-22T07:59:53-06:00
 ---
 
 Project Name                                            | Pronounced as
-:——————————————————:|:——:
+:------------------------------------------------------:|:-------------:
 [IQu](../../publication/Paolini2019)                    | _haiku_
 [LIQ$Ui\|\rangle$](../../publication/Wecker2014)        | _liquid_
 [OpenQASM](../../publication/Cross2021)                 | _open chasm_
@@ -22,7 +22,7 @@ Project Name                                            | Pronounced as
 [PyZX](https://github.com/Quantomatic/pyzx#attribution) | _pizzix_ (like _physics_)
 [Q#](../../publication/Svore2018)                       | _Q-Sharp_
 [QASM](../../publication/Cross2017)                     | _chasm_
-[Qbricks](../../publication/Chareton2021)               | _Q-bricks_ / _Kubrick’s_
+[Qbricks](../../publication/Chareton2021)               | _Q-bricks_ / _Kubrick's_
 [Qiskit](../../publication/QiskitCommunity2017)         | _kiss-kit_ AND _quiss-kit_[^qiskit]
 [Quil](../../publication/Smith2016)                     | _quill_
 [QWIRE](../../publication/Paykin2017/)                  | _choir_
