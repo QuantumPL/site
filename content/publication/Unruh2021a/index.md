@@ -1,23 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantum Hoare Logic
+title: Quantum and Classical Registers
 subtitle: ''
 summary: ''
 authors:
-- Junyi Liu
-- Bohua Zhan
-- Shuling Wang
-- Shenggang Ying
-- Tao Liu
-- Yangjia Li
-- Mingsheng Ying
-- Naijun Zhan
-tags:
-- hoare logic
+- Dominique Unruh
+tags: []
 categories: []
-date: '2019-03-01'
-lastmod: 2021-08-16T11:44:18-05:00
+date: '2021-10-01'
+lastmod: 2022-04-07T19:57:46-05:00
 featured: false
 draft: false
 
@@ -35,17 +27,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:18.384878Z'
 publication_types:
 - '9'
-abstract: We formalize quantum Hoare logic [TOPLAS 33(6),19]. In particular, we specify
-  the syntax and denotational semantics of a simple model of quantum programs. Then,
-  we write down the rules of quantum Hoare logic for partial correctness, and show
-  the soundness and completeness of the resulting proof system. As an application,
-  we verify the correctness of Grover's algorithm.
+abstract: A formalization of the theory of quantum and classical registers as developed
+  by (Unruh, Quantum and Classical Registers). In a nutshell, a register refers to
+  a part of a larger memory or system that can be accessed independently. Registers
+  can be constructed from other registers and several (compatible) registers can be
+  composed. This formalization develops both the generic theory of registers as well
+  as specific instantiations for classical and quantum registers.
 publication: '*Archive of Formal Proofs*'
 links:
 - name: URL
-  url: https://isa-afp.org/entries/QHLProver.html
+  url: https://isa-afp.org/entries/Registers.html
 ---
-Formal proof development in Isabelle, supplement to [[Liu2019](../Liu2019)]
+Formal proof development in Isabelle, supplement to [[Unruh2021](../Unruh2021)]

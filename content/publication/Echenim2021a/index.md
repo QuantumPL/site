@@ -1,23 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantum Hoare Logic
+title: Quantum projective measurements and the CHSH inequality
 subtitle: ''
 summary: ''
 authors:
-- Junyi Liu
-- Bohua Zhan
-- Shuling Wang
-- Shenggang Ying
-- Tao Liu
-- Yangjia Li
-- Mingsheng Ying
-- Naijun Zhan
-tags:
-- hoare logic
+- Mnacho Echenim
+tags: []
 categories: []
-date: '2019-03-01'
-lastmod: 2021-08-16T11:44:18-05:00
+date: '2021-03-01'
+lastmod: 2022-04-07T19:57:39-05:00
 featured: false
 draft: false
 
@@ -35,17 +27,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:18.384878Z'
 publication_types:
 - '9'
-abstract: We formalize quantum Hoare logic [TOPLAS 33(6),19]. In particular, we specify
-  the syntax and denotational semantics of a simple model of quantum programs. Then,
-  we write down the rules of quantum Hoare logic for partial correctness, and show
-  the soundness and completeness of the resulting proof system. As an application,
-  we verify the correctness of Grover's algorithm.
+abstract: This work contains a formalization of quantum projective measurements, also
+  known as von Neumann measurements, which are based on elements of spectral theory.
+  We also formalized the CHSH inequality, an inequality involving expectations in
+  a probability space that is violated by quantum measurements, thus proving that
+  quantum mechanics cannot be modeled with an underlying local hidden-variable theory.
 publication: '*Archive of Formal Proofs*'
 links:
 - name: URL
-  url: https://isa-afp.org/entries/QHLProver.html
+  url: https://isa-afp.org/entries/Projective_Measurements.html
 ---
-Formal proof development in Isabelle, supplement to [[Liu2019](../Liu2019)]
+Formal proof development in Isabelle, supplement to [[Echenim2021](../Echenim2021)]

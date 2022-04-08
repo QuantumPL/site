@@ -51,4 +51,4 @@ abstract: We formalize the theory of quantum Hoare logic (QHL) [TOPLAS 33(6),19]
 publication: "*Computer Aided Verification (CAV '19)*"
 doi: 10.1007/978-3-030-25543-5_12
 ---
-See also: Isabelle AFP entry, QHLProver [[Liu2019a](../Liu2019a)]
+See also: Isabelle AFP entry [[Liu2019a](../Liu2019a)]

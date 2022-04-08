@@ -54,3 +54,4 @@ links:
 - name: URL
   url: https://www.isa-afp.org/entries/Isabelle_Marries_Dirac.html
 ---
+See also: Isabelle AFP entry [[Bordg2020](../Bordg2020)]
