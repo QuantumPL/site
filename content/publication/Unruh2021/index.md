@@ -29,18 +29,17 @@ image:
 projects: []
 publication_types:
 - '0'
-abstract: We present a generic theory of \"registers\" in imperative programs and
-  instantiate it in the classical and quantum setting. Roughly speaking, a register
-  is some mutable part of the program state. Mutable classical variables and quantum
-  registers and wires in quantum circuits are examples of this. However, registers
-  in our setting can also refer to subparts of other registers, or combinations of
-  parts from different registers, or quantum registers seen in a different basis,
-  etc. Our formalization is intended to be well suited for formalization in theorem
-  provers and as a foundation for modeling quantum/classical variables in imperative
-  programs. We study the quantum registers in greater detail and cover the infinite-dimensional
-  case as well. We implemented a large part of our results (including a minimal quantum
-  Hoare logic and an analysis of quantum teleportation) in the Isabelle/HOL theorem
-  prover.
+abstract: We present a generic theory of "registers" in imperative programs and instantiate
+  it in the classical and quantum setting. Roughly speaking, a register is some mutable
+  part of the program state. Mutable classical variables and quantum registers and
+  wires in quantum circuits are examples of this. However, registers in our setting
+  can also refer to subparts of other registers, or combinations of parts from different
+  registers, or quantum registers seen in a different basis, etc. Our formalization
+  is intended to be well suited for formalization in theorem provers and as a foundation
+  for modeling quantum/classical variables in imperative programs. We study the quantum
+  registers in greater detail and cover the infinite-dimensional case as well. We
+  implemented a large part of our results (including a minimal quantum Hoare logic
+  and an analysis of quantum teleportation) in the Isabelle/HOL theorem prover.
 publication: ''
 links:
 - name: arXiv

@@ -3,7 +3,7 @@ title: Quantum at POPL 2022
 aliases:
   - pop22
 
-event: 49th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2022).
+event: 49th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2022)
 event_url: https://popl22.sigplan.org/
 
 location: Remote and Philadelphia, PA, USA
