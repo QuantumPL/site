@@ -5,7 +5,7 @@ title: Conventions for Quantum Pseudocode
 subtitle: ''
 summary: ''
 authors:
-- Emmanuel Knill
+- Emanuel Knill
 tags: []
 categories: []
 date: '1996-06-01'
