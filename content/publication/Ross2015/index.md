@@ -7,6 +7,7 @@ summary: ''
 authors:
 - Neil J. Ross
 tags:
+- proto-quipper-s
 - proto-quipper
 - quipper
 categories: [PhD Thesis, Quipper]
