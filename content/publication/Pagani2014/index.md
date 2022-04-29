@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Michele Pagani
 - Peter Selinger
-- Beno^it Valiron
+- Benoît Valiron
 tags:
 - higher-order
 - quantum computation

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Ugo Dal Lago
 - Claudia Faggian
-- Beno^it Valiron
+- Benoît Valiron
 - Akira Yoshimizu
 tags:
 - memory structure
