@@ -1,3 +1,3 @@
 #!/bin/bash
-(cd ../bib/ && make) && academic import --overwrite --bibtex ../bib/bbt.bib
+(cd ../bib/ && make bbt) && academic import --overwrite --bibtex ../bib/bbt.bib
 hugo serve
