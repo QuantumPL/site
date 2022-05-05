@@ -18,7 +18,7 @@ authors:
 - Zhihao Jia
 tags: []
 categories: []
-date: '2022-04-01'
+date: '2022-05-01'
 lastmod: 2022-04-07T20:34:41-05:00
 featured: false
 draft: false
@@ -64,5 +64,7 @@ links:
   url: https://arxiv.org/abs/2111.11387
 - name: URL
   url: https://github.com/quantum-compiler/quartz
+doi: 10.1145/3519939.3523433
+url_pdf: https://theory.stanford.edu/~aiken/publications/papers/pldi22b.pdf
 ---
-PLDI '22. Previously known as Quanto. To appear at PLDI 2022
+PLDI '22. Previously known as Quanto. To appear at PLDI 2022.
