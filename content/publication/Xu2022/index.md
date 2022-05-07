@@ -16,7 +16,9 @@ authors:
 - Alex Aiken
 - Umut A. Acar
 - Zhihao Jia
-tags: []
+tags:
+- quantum computing
+- superoptimization
 categories: []
 date: '2022-05-01'
 lastmod: 2022-04-07T20:34:41-05:00

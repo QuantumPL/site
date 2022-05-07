@@ -8,9 +8,13 @@ authors:
 - Yuxiang Peng
 - Mingsheng Ying
 - Xiaodi Wu
-tags: []
+tags:
+- non-idempotent kleene algebra
+- compiler optimization
+- normal form theorem
+- quantum hoare logic
 categories: []
-date: '2022-04-01'
+date: '2022-05-01'
 lastmod: 2022-04-07T20:34:37-05:00
 featured: false
 draft: false
@@ -50,7 +54,7 @@ publication: '*Proceedings of the 43rd ACM SIGPLAN International Conference on P
   Language Design and Implementation*'
 doi: 10.1145/3519939.3523713
 links:
-- name: arXiv
+- name: arXiv (Extended Version)
   url: https://arxiv.org/abs/2110.07018
 ---
-PLDI '22. To appear at PLDI 2022
+PLDI '22. See arXiv for extended version. To appear at PLDI 2022

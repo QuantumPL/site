@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Giallar: Push-button Verification for the Qiskit Quantum Compiler'
+title: 'Giallar: Push-Button Verification for the Qiskit Quantum Compiler'
 subtitle: ''
 summary: ''
 authors:
@@ -13,9 +13,12 @@ authors:
 - Andrew W. Cross
 - Frederic T. Chong
 - Ronghui Gu
-tags: []
+tags:
+- quantum computing
+- compiler verification
+- automated verification
 categories: []
-date: '2022-04-01'
+date: '2022-05-01'
 lastmod: 2022-04-07T20:34:40-05:00
 featured: false
 draft: false
@@ -53,6 +56,7 @@ publication: '*Proceedings of the 43rd ACM SIGPLAN International Conference on P
   Language Design and Implementation*'
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/1908.08963
+  url: https://arxiv.org/abs/2205.00661
+doi: 10.1145/3519939.3523431
 ---
-PLDI '22. Previously known as CertiQ. To appear at PLDI 2022
+PLDI '22. Previously known as [CertiQ (arXiv:1908.08963)](https://arxiv.org/abs/1908.08963). To appear at PLDI 2022
