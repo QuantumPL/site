@@ -52,7 +52,7 @@ abstract: "While recent progress in quantum hardware open the door for significa
 publication: '*Programming Languages and Systems, ESOP 2021*'
 doi: 10.1007/978-3-030-72019-3_6
 links:
-- name: arXiv (extended version)
+- name: arXiv
   url: https://arxiv.org/abs/2003.05841
 ---
-See extended version for additional technical material.
+See extended version on arXiv for additional technical material.

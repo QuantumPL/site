@@ -54,7 +54,7 @@ publication: '*Proceedings of the 43rd ACM SIGPLAN International Conference on P
   Language Design and Implementation*'
 doi: 10.1145/3519939.3523713
 links:
-- name: arXiv (Extended Version)
+- name: arXiv
   url: https://arxiv.org/abs/2110.07018
 ---
 PLDI '22. See arXiv for extended version. To appear at PLDI 2022

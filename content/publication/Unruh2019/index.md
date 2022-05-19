@@ -46,5 +46,8 @@ abstract: We present a logic for reasoning about pairs of interactive quantum pr
   in it.
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3290346
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1802.03188
 ---
-POPL '19
+POPL '19. See extended version on arXiv.

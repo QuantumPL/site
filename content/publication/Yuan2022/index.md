@@ -56,9 +56,9 @@ abstract: Quantum programming languages enable developers to implement algorithm
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3498691
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2205.02287
 - name: URL
   url: https://github.com/psg-mit/twist-popl22
-- name: Appendix
-  url: appendix.pdf
 ---
-POPL '22. Also see [the associated appendix](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3498691&file=popl22main-p167-p-archive.zip).
+POPL '22. The extended version on arXiv includes the appendix and differs from ACM Proceedings in that it includes a more refined comparison to prior work, specifically in Sections 3.5 and 9.6.

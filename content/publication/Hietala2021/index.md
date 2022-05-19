@@ -52,9 +52,9 @@ abstract: We present VOQC, the first fully verified optimizer for quantum circui
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3434318
 links:
-- name: arXiv (with appendix)
+- name: arXiv
   url: https://arxiv.org/abs/1912.02250
 - name: URL
   url: https://github.com/inQWIRE/SQIR
 ---
-POPL '21
+POPL '21. See arXiv version for full paper with appendix.

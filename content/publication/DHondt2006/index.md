@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2006-06-01'
-lastmod: 2021-08-16T11:44:15-05:00
+lastmod: 2022-05-19T14:41:07-05:00
 featured: false
 draft: false
 
@@ -28,7 +28,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-16T16:44:15.049413Z'
 publication_types:
 - '2'
 abstract: We develop a notion of predicate transformer and, in particular, the weakest

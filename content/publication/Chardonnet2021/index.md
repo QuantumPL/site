@@ -46,6 +46,7 @@ publication: '*46th International Symposium on Mathematical Foundations of Compu
   Science (MFCS 2021)*'
 doi: 10.4230/LIPIcs.MFCS.2021.30
 links:
-- name: URL (full version)
+- name: HAL
   url: https://hal.archives-ouvertes.fr/hal-03154573/
 ---
+See full version on HAL.
