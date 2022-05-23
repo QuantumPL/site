@@ -63,10 +63,10 @@ publication: '*Proceedings of the 43rd ACM SIGPLAN International Conference on P
   Language Design and Implementation*'
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2111.11387
+  url: https://arxiv.org/abs/2204.09033
 - name: URL
   url: https://github.com/quantum-compiler/quartz
 doi: 10.1145/3519939.3523433
 url_pdf: https://theory.stanford.edu/~aiken/publications/papers/pldi22b.pdf
 ---
-PLDI '22. Previously known as Quanto. To appear at PLDI 2022.
+PLDI '22. Previously known as Quanto, arXiv:[2111.11387](https://arxiv.org/abs/2111.11387). To appear at PLDI 2022.
