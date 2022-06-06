@@ -14,7 +14,7 @@ tags:
 - normal form theorem
 - quantum hoare logic
 categories: []
-date: '2022-05-01'
+date: '2022-06-01'
 lastmod: 2022-04-07T20:34:37-05:00
 featured: false
 draft: false
@@ -57,4 +57,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2110.07018
 ---
-PLDI '22. See arXiv for extended version. To appear at PLDI 2022
+PLDI '22. See arXiv for extended version.

@@ -20,7 +20,7 @@ tags:
 - quantum computing
 - superoptimization
 categories: []
-date: '2022-05-01'
+date: '2022-06-01'
 lastmod: 2022-04-07T20:34:41-05:00
 featured: false
 draft: false
@@ -69,4 +69,4 @@ links:
 doi: 10.1145/3519939.3523433
 url_pdf: https://theory.stanford.edu/~aiken/publications/papers/pldi22b.pdf
 ---
-PLDI '22. Previously known as Quanto, arXiv:[2111.11387](https://arxiv.org/abs/2111.11387). To appear at PLDI 2022.
+PLDI '22. Previously known as [Quanto (arXiv:2111.11387)](https://arxiv.org/abs/2111.11387).

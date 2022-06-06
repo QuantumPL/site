@@ -18,7 +18,7 @@ tags:
 - compiler verification
 - automated verification
 categories: []
-date: '2022-05-01'
+date: '2022-06-01'
 lastmod: 2022-04-07T20:34:40-05:00
 featured: false
 draft: false
@@ -59,4 +59,4 @@ links:
   url: https://arxiv.org/abs/2205.00661
 doi: 10.1145/3519939.3523431
 ---
-PLDI '22. Previously known as [CertiQ (arXiv:1908.08963)](https://arxiv.org/abs/1908.08963). To appear at PLDI 2022
+PLDI '22. Previously known as [CertiQ (arXiv:1908.08963)](https://arxiv.org/abs/1908.08963).
