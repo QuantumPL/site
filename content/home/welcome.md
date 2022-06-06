@@ -19,7 +19,7 @@ design:
 
 Welcome to _Quantum Programming Languages & Verification Bibliography_.
 
-Our goal is to provide [canonical bibentries](/bib/about) in [BibTeX](https://en.wikipedia.org/wiki/BibTeX) format ([BibLaTeX](https://ctan.org/pkg/biblatex) support is [coming](https://github.com/QuantumPL/bib/issues/6)).
+Our goal is to provide [canonical bibentries](/bib/about) in [BibTeX](https://raw.githubusercontent.com/QuantumPL/bib/main/bbt.bib) and [BibLaTeX](https://raw.githubusercontent.com/QuantumPL/bib/main/biblatex.bib) formats.
 
 Please [file issues/send PRs](https://github.com/QuantumPL/bib), if you find any mistakes or missing entries.
 
