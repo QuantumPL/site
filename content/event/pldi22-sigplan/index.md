@@ -10,8 +10,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-06-17T13:50:00-07:00
-date_end: 2022-06-17T14:30:00-07:00
+date: 2022-06-16T16:30:00-07:00
+date_end: 2022-06-17T14:50:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -61,7 +61,8 @@ slides: ""
 projects: []
 ---
 
-Two previously published quantum PL papers will have in-person talks during the SIGPLAN Track at PLDI 2022:
+Three previously published quantum PL papers will have in-person talks during the SIGPLAN Track at PLDI 2022:
 
-- _PLDI 2021_: [Quantum Abstract Interpretation](../../publication/Yu2021/) by Nengkun Yu, Jens Palsberg
 - _POPL 2021_: [A Verified Optimizer for Quantum Circuits](../../publication/Hietala2021) by Kesha Hietala, Robert Rand, Shih-Han Hung, Xiaodi Wu, Michael Hicks
+- _PLDI 2021_: [Quantum Abstract Interpretation](../../publication/Yu2021/) by Nengkun Yu, Jens Palsberg
+- _POPL 2022_: [Twist: Sound Reasoning for Purity and Entanglement in Quantum Programs](../../publication/Yuan2022/) by Charles Yuan, Christopher McNally, Michael Carbin
