@@ -54,6 +54,8 @@ abstract: Q# is a standalone domain-specific programming language from Microsoft
 publication: '*Proceedings of the 19th International Conference on Quantum Physics
   and Logic (QPL), Oxford, U.K., June 27--July 1, 2022*'
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2206.03532
 - name: URL
   url: https://ks.cs.uchicago.edu/publication/q-algol/
 ---
