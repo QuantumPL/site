@@ -16,7 +16,7 @@ tags:
 - quantum compilation
 - mlir
 categories: []
-date: '2022-02-01'
+date: '2022-07-01'
 lastmod: 2022-03-01T14:22:21-06:00
 featured: false
 draft: false
@@ -56,4 +56,3 @@ abstract: We propose an IR for quantum computing that directly exposes quantum a
 publication: '*ACM Transactions on Quantum Computing*'
 doi: 10.1145/3491247
 ---
-Just Accepted
