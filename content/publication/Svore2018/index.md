@@ -20,6 +20,7 @@ tags:
 - domain specific language
 - functional programming
 - quantum computing
+- q#
 categories: []
 date: '2018-02-01'
 lastmod: 2021-08-16T11:44:22-05:00
