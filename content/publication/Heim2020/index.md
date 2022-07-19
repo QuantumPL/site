@@ -6,7 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Bettina Heim
-tags: []
+tags:
+- programming languages
+- quantum programming
+- quantum computing
+- q#
 categories: [PhD Thesis]
 date: '2020-12-01'
 lastmod: 2021-08-16T11:44:16-05:00
