@@ -69,4 +69,4 @@ links:
 doi: 10.1145/3519939.3523433
 url_pdf: https://theory.stanford.edu/~aiken/publications/papers/pldi22b.pdf
 ---
-PLDI '22. Previously known as [Quanto (arXiv:2111.11387)](https://arxiv.org/abs/2111.11387).
+PLDI '22. The extended version on arXiv includes an additional appendix with detailed results. Previously known as [Quanto (arXiv:2111.11387)](https://arxiv.org/abs/2111.11387).
