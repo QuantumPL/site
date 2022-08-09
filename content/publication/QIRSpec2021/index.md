@@ -5,7 +5,7 @@ title: QIR Specification
 subtitle: ''
 summary: ''
 authors:
-- QIR Alliance
+- '{QIR Alliance}'
 tags: []
 categories: []
 date: '2021-11-01'
