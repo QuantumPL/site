@@ -47,5 +47,8 @@ abstract: Bug-catching is important for developing quantum programs. Motivated b
   built on top of the logic rules.
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3527316
+links:
+- name: URL
+  url: https://hrjiang.github.io/ilq/
 ---
-OOPSLA '22
+OOPSLA '22. Also see the URL for the extended technical report.
