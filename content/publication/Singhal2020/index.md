@@ -46,8 +46,8 @@ abstract: We describe the ongoing development of a verified translator between O
   verified optimization of circuits written in a variety of tools and executed on
   real quantum computers. This translator is a step toward a verified compilation
   stack for quantum computing.
-publication: "*Informal Proceedings of the First International Workshop on Programming\
-  \ Languages for Quantum Computing (PLanQC '20)*"
+publication: "*First International Workshop on Programming Languages for Quantum Computing\
+  \ (PLanQC '20)*"
 links:
 - name: URL
   url: https://ks.cs.uchicago.edu/publication/verified-translation/
