@@ -43,4 +43,4 @@ links:
 - name: URL
   url: https://isa-afp.org/entries/Isabelle_Marries_Dirac.html
 ---
-Formal proof development in Isabelle. Supplement to [[Bordg2021](../Bordg2021)]
+Formal proof development in Isabelle. Supplement to [[Bordg2020a](../Bordg2020a)]

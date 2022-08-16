@@ -18,8 +18,8 @@ tags:
 - deutsch--jozsa algorithm
 - quantum prisoner's dilemma
 categories: []
-date: '2021-06-01'
-lastmod: 2021-09-17T16:01:04-05:00
+date: '2020-12-01'
+lastmod: 2022-08-16T06:36:32-05:00
 featured: false
 draft: false
 

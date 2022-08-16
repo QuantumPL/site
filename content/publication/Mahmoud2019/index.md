@@ -16,7 +16,7 @@ tags:
 - higher-order abstract syntax
 - coq
 categories: [Quipper]
-date: '2019-12-01'
+date: '2019-06-01'
 lastmod: 2021-08-16T11:44:18-05:00
 featured: false
 draft: false
