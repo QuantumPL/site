@@ -15,6 +15,7 @@ tags:
 - deductive verification
 - quantum programming
 - quantum circuits
+- sum-over-paths
 categories: []
 date: '2021-03-01'
 lastmod: 2021-08-16T11:44:14-05:00

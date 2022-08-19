@@ -11,6 +11,7 @@ tags:
 - quantum circuits
 - compiler optimization
 - formal verification
+- sum-over-paths
 categories: [PhD Thesis]
 date: '2019-02-01'
 lastmod: 2021-09-05T09:05:16-05:00

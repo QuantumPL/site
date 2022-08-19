@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Matthew Amy
-tags: []
+tags:
+- sum-over-paths
 categories: []
 date: '2019-01-01'
 lastmod: 2021-09-05T09:05:16-05:00
