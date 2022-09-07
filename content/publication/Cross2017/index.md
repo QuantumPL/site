@@ -51,4 +51,4 @@ links:
 - name: URL
   url: https://github.com/Qiskit/openqasm/tree/OpenQASM2.x
 ---
-OpenQASM 2.0, see [[Cross2021](../Cross2021)] for OpenQASM 3
+OpenQASM 2.0, see [[Cross2022](../Cross2022)] for OpenQASM 3

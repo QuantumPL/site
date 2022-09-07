@@ -23,8 +23,8 @@ tags:
 - quantum computing
 - quantum information
 categories: []
-date: '2021-12-01'
-lastmod: 2021-10-07T10:11:56-05:00
+date: '2022-09-01'
+lastmod: 2022-09-07T11:15:20-05:00
 featured: false
 draft: false
 
@@ -63,11 +63,11 @@ abstract: 'Quantum assembly languages are machine-independent languages that tra
   as well as control sequence implementation for calibration, characterization, and
   error mitigation.'
 publication: '*ACM Transactions on Quantum Computing*'
+doi: 10.1145/3505636
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2104.14722
 - name: URL
-  url: https://qiskit.github.io/openqasm/
-doi: 10.1145/3505636
+  url: https://openqasm.com/
 ---
 See [[Cross2017](../Cross2017)] for OpenQASM 2.0
