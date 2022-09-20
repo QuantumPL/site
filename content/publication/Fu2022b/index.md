@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Linear Dependent Type Theory for Quantum Programming Languages: Extended Abstract'
+title: Linear Dependent Type Theory for Quantum Programming Languages
 subtitle: ''
 summary: ''
 authors:
@@ -15,9 +15,9 @@ tags:
 - quantum programming languages
 - linear dependent types
 - proto-quipper-m
-categories: [Quipper]
-date: '2020-07-01'
-lastmod: 2021-09-06T11:48:22-05:00
+categories: []
+date: '2022-09-01'
+lastmod: 2022-09-20T11:43:39+05:30
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '1'
+- '2'
 abstract: Modern quantum programming languages integrate quantum resources and classical
   control. They must, on the one hand, be linearly typed to reflect the no-cloning
   property of quantum resources. On the other hand, high-level and practical languages
@@ -44,13 +44,12 @@ abstract: Modern quantum programming languages integrate quantum resources and c
   of circuits that are indexed by some classical parameters. Quantum programming languages
   thus need linear dependent type theory. This paper defines a general semantic structure
   for such a type theory via certain fibrations of monoidal categories. The categorical
-  model of the quantum circuit description language Proto-Quipper-M by Rios & Selinger
-  constitutes an example of such a fibration, which means that the language can readily
-  be integrated with dependent types. We then devise both a general linear dependent
-  type system and a dependently typed extension of Proto-Quipper-M, and provide them
-  with operational semantics as well as a prototype implementation.
-publication: '*Proceedings of the 35th Annual ACM/IEEE Symposium on Logic in Computer
-  Science*'
-doi: 10.1145/3373718.3394765
+  model of the quantum circuit description language Proto-Quipper-M by Rios and Selinger
+  (2017) constitutes an example of such a fibration, which means that the language
+  can readily be integrated with dependent types. We then devise both a general linear
+  dependent type system and a dependently typed extension of Proto-Quipper-M, and
+  provide them with operational semantics as well as a prototype implementation.
+publication: '*Logical Methods in Computer Science*'
+doi: 10.46298/lmcs-18(3:28)2022
 ---
-LICS '20. See expanded version at [[Fu2022b](../Fu2022b)]
+Expanded version of [[Fu2020](../Fu2020)]
