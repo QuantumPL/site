@@ -6,7 +6,11 @@ subtitle: ''
 summary: ''
 authors:
 - Kesha Hietala
-tags: []
+tags:
+- compilers
+- formal verification
+- programming languages
+- quantum computing
 categories: [PhD Thesis]
 date: '2022-07-01'
 lastmod: 2022-07-16T17:45:57-05:00
@@ -47,5 +51,5 @@ abstract: "Quantum computing is steadily moving from theory into practice, with 
   \ VOQC. Finally, I present developing work on providing assurance for a high-level\
   \ industry quantum programming language, Q#, in the F* proof assistant."
 publication: ''
-url_pdf: https://khieta.github.io/files/dissertation.pdf
+doi: 10.13016/3el9-osue
 ---
