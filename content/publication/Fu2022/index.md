@@ -35,7 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '0'
+- '2'
 abstract: 'Quipper is a functional programming language for quantum computing. Proto-Quipper
   is a family of languages aiming to provide a formal foundation for Quipper. In this
   paper, we extend Proto-Quipper-M with a construct called dynamic lifting, which
@@ -54,9 +54,12 @@ abstract: 'Quipper is a functional programming language for quantum computing. P
   Finally, we give some examples of Proto-Quipper-Dyn programs that make essential
   use of dynamic lifting. A concrete categorical model is given in a companion paper
   [FKRS2022b].'
-publication: ''
+publication: '*Proceedings of the ACM on Programming Languages*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.13041
+- name: URL
+  url: https://gitlab.com/frank-peng-fu/dpq-remake
+doi: ''
 ---
-See the companion paper [[Fu2022a](../Fu2022a)]
+To appear at POPL '23. See the companion paper [[Fu2022a](../Fu2022a)]
