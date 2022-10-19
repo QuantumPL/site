@@ -21,7 +21,7 @@ Welcome to _Quantum Programming Languages & Verification Bibliography_.
 
 Our goal is to provide [canonical bibentries](/bib/about) in [BibTeX](https://raw.githubusercontent.com/QuantumPL/bib/main/bbt.bib) and [BibLaTeX](https://raw.githubusercontent.com/QuantumPL/bib/main/biblatex.bib) formats.
 
-Please [use this form](https://forms.gle/watgbhcDa5jkf85T7) if you find any mistakes or missing entries.
+Please see the [Contributing Guide](https://github.com/QuantumPL/bib/blob/main/CONTRIBUTING.md) or [use this form](https://forms.gle/watgbhcDa5jkf85T7) if you would like to add/correct any entries.
 
 {{% cta cta_link="./publication/" cta_text="See all publications →" %}}
 </center>
