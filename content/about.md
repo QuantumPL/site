@@ -29,6 +29,7 @@ projects: []
 ---
 
 Welcome to **Quantum Programming Languages & Verification Bibliography** (aka _[qpl-bib](https://twitter.com/k4rtik/status/1402442480163995653)_). The goal of this site is to provide the quantum PL and verification community with canonical bibliographic entries that we can easily import in our papers. The emphasis is on:
+
 1. correct data for all bib entries and each of their fields;
 2. being comprehensive in including all relevant metadata;
 3. providing URLs to expanded versions and/or legal copies (such as author copy, arXiv preprints, etc.) for non-open access publications; and
@@ -37,6 +38,7 @@ Welcome to **Quantum Programming Languages & Verification Bibliography** (aka _[
 This project was started by Kartik, a PhD student in Quantum PL, while attending his advisor [Robert Rand](https://rand.cs.uchicago.edu/)'s [seminar](https://ks.cs.uchicago.edu/qpl-bib/qpv.html) on the subject in Spring 2021. Contributions from the community are most welcome. See our [contributing guide](https://github.com/QuantumPL/bib/blob/main/CONTRIBUTING.md).
 
 Other resources:
+
 - [A rendering](../retro/bbt.html) of this bib database using `bibtex2html` (linked in navigation menu as [bibtex2html](../retro/bbt.html)).
 - [A rendering](../base) using [BibBase](https://bibbase.org/) (_NOTE: Some entries seem to be missing in this render._).
 - An [external bibliography](https://zxcalculus.com/publications.html) of [ZX-calculus](../tag/zx-calculus) publications.
