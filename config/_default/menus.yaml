@@ -7,10 +7,10 @@ main:
   - name: About
     url: about
     weight: 05
-  - name: Publications
+  - name: Papers
     url: publication
     weight: 10
-  - name: Authors
+  - name: People
     url: authors
     weight: 20
   - name: Venues
@@ -22,12 +22,27 @@ main:
   - name: Posts
     url: post
     weight: 30
-  - name: Retro
-    url: retro/bbt.html
+  - name: Variants
     weight: 40
+  - name: BibLaTeX
+    url: https://raw.githubusercontent.com/QuantumPL/bib/main/biblatex.bib
+    weight: 1
+    parent: Variants
+  - name: BibTeX
+    url: https://raw.githubusercontent.com/QuantumPL/bib/main/bbt.bib
+    weight: 2
+    parent: Variants
+  - name: bibtex2html
+    url: retro/bbt.html
+    weight: 3
+    parent: Variants
   - name: BibBase
     url: base
-    weight: 50
+    weight: 4
+    parent: Variants
+  - name: Mailing List
+    url: https://lists.uchicago.edu/web/info/qplv
+    weight: 60
   # - name: Contact
   #   url: contact
   #   weight: 60
