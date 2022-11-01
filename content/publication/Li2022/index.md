@@ -12,7 +12,10 @@ authors:
 - Xiaodi Wu
 - Michael Hicks
 tags:
-- ''
+- quantum oracle
+- type system
+- compiler verification
+- programming language design
 categories: []
 date: '2022-10-01'
 lastmod: 2022-10-28T13:15:07-05:00

@@ -52,3 +52,4 @@ abstract: The interest in quantum computing is growing, and with it, the importa
 publication: '*Proceedings of the ACM on Programming Languages*'
 doi: 10.1145/3527330
 ---
+OOPSLA '22

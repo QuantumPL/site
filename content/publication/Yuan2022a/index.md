@@ -14,7 +14,7 @@ tags:
 - reversible programming
 - history independence
 categories: []
-date: '2022-09-01'
+date: '2022-10-01'
 lastmod: 2022-09-20T11:43:49+05:30
 featured: false
 draft: false
