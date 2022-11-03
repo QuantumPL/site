@@ -55,4 +55,7 @@ abstract: We propose an IR for quantum computing that directly exposes quantum a
   optimization at application scale.
 publication: '*ACM Transactions on Quantum Computing*'
 doi: 10.1145/3491247
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2101.11030
 ---
