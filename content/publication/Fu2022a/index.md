@@ -35,7 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '0'
+- '1'
 abstract: 'Quipper and Proto-Quipper are a family of quantum programming languages
   that, by their nature as circuit description languages, involve two runtimes: one
   at which the program generates a circuit and one at which the circuit is executed,
@@ -52,7 +52,8 @@ abstract: 'Quipper and Proto-Quipper are a family of quantum programming languag
   paper deals with the concrete categorical semantics of this language, whereas a
   companion paper [FKRS2022a] deals with the syntax, type system, operational semantics,
   and abstract categorical semantics.'
-publication: ''
+publication: '*Proceedings of the 19th International Conference on Quantum Physics
+  and Logic (QPL), Oxford, U.K., June 27--July 1, 2022*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.13039
