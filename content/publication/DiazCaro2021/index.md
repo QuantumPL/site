@@ -38,4 +38,7 @@ abstract: We investigate an unsuspected connection between non-harmonious logica
   the core of a quantum programming language.
 publication: '*Theoretical Aspects of Computing -- ICTAC 2021*'
 doi: 10.1007/978-3-030-85315-0_11
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2012.08994
 ---
