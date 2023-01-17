@@ -12,8 +12,8 @@ summary: Four quantum PL papers at POPL 2022.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-20T09:20:00-06:00"
-date_end: "2022-01-20T11:00:00-06:00"
+date: "2022-01-20T10:20:00-05:00"
+date_end: "2022-01-20T12:00:00-05:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
