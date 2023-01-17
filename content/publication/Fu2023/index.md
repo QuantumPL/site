@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Proto-Quipper with dynamic lifting
+title: Proto-Quipper with Dynamic Lifting
 subtitle: ''
 summary: ''
 authors:
@@ -14,9 +14,12 @@ tags:
 - proto-quipper-m
 - proto-quipper
 - quipper
-categories: [Quipper]
-date: '2022-04-01'
-lastmod: 2022-04-28T17:46:13-05:00
+- quantum programming languages
+- categorical semantics
+- dynamic lifting
+categories: []
+date: '2023-01-01'
+lastmod: 2023-01-17T10:28:07-06:00
 featured: false
 draft: false
 
@@ -52,14 +55,13 @@ abstract: 'Quipper is a functional programming language for quantum computing. P
   for dynamic lifting based on enriched category theory. We prove that both the type
   system and the operational semantics are sound with respect to our categorical semantics.
   Finally, we give some examples of Proto-Quipper-Dyn programs that make essential
-  use of dynamic lifting. A concrete categorical model is given in a companion paper
-  [FKRS2022b].'
+  use of dynamic lifting.'
 publication: '*Proceedings of the ACM on Programming Languages*'
+doi: 10.1145/3571204
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.13041
 - name: URL
   url: https://gitlab.com/frank-peng-fu/dpq-remake
-doi: ''
 ---
-To appear at POPL '23. See the companion paper [[Fu2022a](../Fu2022a)]
+POPL '23. Also see the companion paper [[Fu2022a](../Fu2022a)]

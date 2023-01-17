@@ -10,9 +10,12 @@ authors:
 - Robert Rand
 - Michael Hicks
 tags:
-- ''
+- algebraic data types
+- reversible computing
+- quantum subroutines
+- kraus operators
 categories: []
-date: '2022-04-01'
+date: '2023-01-01'
 lastmod: 2022-10-12T11:19:40-05:00
 featured: false
 draft: false
@@ -49,11 +52,11 @@ abstract: We introduce Qunity, a new quantum programming language designed to tr
   be compiled to a low-level qubit circuit language like OpenQASM, proving the realizability
   of our design.
 publication: '*Proceedings of the ACM on Programming Languages*'
-doi: ''
+doi: 10.1145/3571225
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.12384
 - name: URL
   url: https://gitlab.umiacs.umd.edu/finn/qunity
 ---
-To appear at POPL '23. See extended version on arXiv.
+POPL '23. See extended version on arXiv.

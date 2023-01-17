@@ -16,7 +16,7 @@ tags:
 - proof assistants
 - mathematical libraries
 categories: []
-date: '2022-07-01'
+date: '2023-01-01'
 lastmod: 2022-10-12T11:19:42-05:00
 featured: false
 draft: false
@@ -47,11 +47,11 @@ abstract: 'CoqQ is a framework for reasoning about quantum programs in the Coq p
   can exploit local and parallel reasoning, which minimizes verification effort. We
   illustrate the applicability of CoqQ with many examples from the literature.'
 publication: '*Proceedings of the ACM on Programming Languages*'
-doi: ''
+doi: 10.1145/3571222
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.11350
 - name: URL
   url: https://github.com/coq-quantum/CoqQ
 ---
-To appear at POPL '23.
+POPL '23

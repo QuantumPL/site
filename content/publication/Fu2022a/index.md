@@ -58,4 +58,4 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2204.13039
 ---
-See the companion paper [[Fu2022](../Fu2022)]
+See the companion paper [[Fu2023](../Fu2023)]
