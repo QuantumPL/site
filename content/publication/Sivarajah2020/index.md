@@ -11,7 +11,8 @@ authors:
 - Will Simmons
 - Alec Edgington
 - Ross Duncan
-tags: []
+tags:
+- tket
 categories: []
 date: '2020-11-01'
 lastmod: 2021-09-07T15:21:34-05:00
@@ -46,5 +47,5 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2003.10611
 - name: URL
-  url: https://github.com/CQCL/pytket
+  url: https://github.com/CQCL/tket
 ---
