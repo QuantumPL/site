@@ -17,7 +17,7 @@ tags:
 - quantum programming languages
 - categorical semantics
 - dynamic lifting
-categories: []
+categories: [Quipper]
 date: '2023-01-01'
 lastmod: 2023-01-17T10:28:07-06:00
 featured: false
