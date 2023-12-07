@@ -21,8 +21,8 @@ tags:
 - language design
 - q#
 categories: []
-date: '2022-06-30'
-lastmod: 2022-07-01T11:33:52-07:00
+date: '2023-11-01'
+lastmod: 2023-12-07T17:46:27-06:00
 featured: false
 draft: false
 
@@ -51,11 +51,10 @@ abstract: Q# is a standalone domain-specific programming language from Microsoft
   we may view Q# as a quantum Algol (algorithmic language). We show the safety properties
   enforced by λ-Q#'s type system and present its equational semantics based on a fully
   complete algebraic theory by Staton.
-publication: '*Proceedings of the 19th International Conference on Quantum Physics
-  and Logic (QPL), Oxford, U.K., June 27--July 1, 2022*'
+publication: '*Proceedings 19th International Conference on Quantum Physics and Logic,
+  Wolfson College, Oxford, UK, 27 June--1 July 2022*'
+doi: 10.4204/EPTCS.394.10
 links:
-- name: arXiv
-  url: https://arxiv.org/abs/2206.03532
 - name: URL
   url: https://ks.cs.uchicago.edu/publication/q-algol/
 ---
