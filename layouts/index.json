@@ -7,6 +7,15 @@
 {{- /* Add author pages to index so their bios can be searched. Hide empty `/authors/` node. */ -}}
 {{- $pages := $pages | union (where (where site.Pages "Section" "authors") "Params.superuser" "!=" nil) -}}
 
+{{- $author_map := dict -}}
+{{- range where site.Pages "Section" "authors" -}}
+  {{- /* Determine the author username by looking at the directory or file name */ -}}
+  {{- $username := lower (path.Base (strings.TrimSuffix "/_index.md" (strings.TrimSuffix "/_index.markdown" (strings.TrimSuffix ".md" (strings.TrimSuffix ".markdown" .Path))))) -}}
+  {{- if and .Title .File -}}
+    {{- $author_map = merge $author_map (dict $username .Title) -}}
+  {{- end -}}
+{{- end -}}
+
 {{- range $pages -}}
   {{- /* Do not index drafts or private pages. */ -}}
   {{- if and (not .Draft) (not .Params.private) -}}
@@ -44,10 +53,9 @@
         {{- if gt $authorLen 0 -}}
           {{- $authors = slice -}}
             {{- range $k, $v := .Params.authors -}}
-              {{- $person_page_path := (printf "/authors/%s" (urlize $v)) -}}
-              {{- $person_page := site.GetPage $person_page_path -}}
-              {{- if and $person_page $person_page.File -}}
-                {{- $authors = $authors | append $person_page.Title -}}
+              {{- $author_username := urlize $v -}}
+              {{- if isset $author_map $author_username -}}
+                {{- $authors = $authors | append (index $author_map $author_username) -}}
               {{- else -}}
                 {{- $authors = $authors | append ($v | plainify) -}}
               {{- end -}}
