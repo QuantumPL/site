@@ -12,11 +12,9 @@
   Sorted alphabetically:
 
   <ul>
-    {{range $k, $v := sort .Data.Pages "Title" }}
-      {{ if not (eq $v.Title "Kartik") }}
-      <li><a href="{{$v.Permalink}}">{{$v.Title}}</a></li>
-      {{ end }}
-    {{end}}
+    {{ range sort (where .Data.Pages "Title" "!=" "Kartik") "Title" }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
   </ul>
 
 </div>
