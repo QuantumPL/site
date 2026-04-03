@@ -16,9 +16,7 @@
   <ul>
     {{ range $.Site.Taxonomies.tags.ByCount }}
     {{ if gt .Count 0 }}
-      <li>
-        <a href="../tag/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
-      </li>
+      {{ partial "tag_li.html" . }}
     {{ end }}
     {{end}}
   </ul>
@@ -27,9 +25,7 @@
 
   <ul>
     {{ range $.Site.Taxonomies.tags.Alphabetical }}
-      <li>
-        <a href="../tag/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
-      </li>
+      {{ partial "tag_li.html" . }}
     {{end}}
   </ul>
 
